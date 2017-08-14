@@ -1,5 +1,4 @@
 ---
-title: "Time Series Analysis"
 collection: teaching
 permalink: /teaching/UW-teaching
 venue: "University of Washington, School of Aquatic and Fishery Sciences"
