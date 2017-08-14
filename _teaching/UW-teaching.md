@@ -4,7 +4,7 @@ collection: teaching
 type: ""
 permalink: /teaching/UW-teaching
 venue: "University of Washington, School of Aquatic and Fishery Sciences"
-date: 2012 - present
+date:
 location: "Seattle, WA"
 ---
 
