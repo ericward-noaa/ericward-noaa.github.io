@@ -3,7 +3,7 @@ collection: teaching
 permalink: /teaching/Time-Series
 ---
 
-2012 - present
+UW Time Series Class, 2012 - present
 ======
 Co-taught FISH 507 Time Series Analysis course with Eli Holmes and Mark Scheuerell
 
