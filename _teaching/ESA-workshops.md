@@ -1,5 +1,4 @@
 ---
-collection: teaching
 permalink: /teaching/ESA-workshops
 ---
 
