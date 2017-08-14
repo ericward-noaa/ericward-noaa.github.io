@@ -1,6 +1,6 @@
 ---
 collection: teaching
-permalink: /teaching/UW-teaching
+permalink: /teaching/Time-Series
 venue: "University of Washington, School of Aquatic and Fishery Sciences"
 location: "Seattle, WA"
 ---
