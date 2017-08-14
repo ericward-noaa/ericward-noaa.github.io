@@ -14,4 +14,4 @@ I’m a quantitative ecologist at the Northwest Fisheries Science Center (NOAA) 
 
 Email
 ======
-eric <dot> ward <at> noaa <dot> gov
+eric dot ward at noaa dot gov
