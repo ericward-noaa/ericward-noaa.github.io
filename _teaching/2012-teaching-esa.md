@@ -2,7 +2,7 @@
 title: "Workshops"
 collection: teaching
 type: ""
-permalink: /teaching/2012-teaching-esa.md
+permalink: /teaching/2012-teaching-esa
 venue: ""
 date: 2008-2011
 location: ""
