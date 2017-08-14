@@ -1,6 +1,6 @@
 ---
 collection: teaching
-permalink: /teaching/2012-teaching-esa
+permalink: /teaching/ESA-workshops
 ---
 
 2008 - 2011
