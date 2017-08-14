@@ -1,7 +1,6 @@
 ---
 title: "Time Series Analysis"
 collection: teaching
-type: ""
 permalink: /teaching/UW-teaching
 venue: "University of Washington, School of Aquatic and Fishery Sciences"
 location: "Seattle, WA"
@@ -10,3 +9,5 @@ location: "Seattle, WA"
 2012 - present
 ======
 Co-taught FISH 507 Time Series Analysis course with Eli Holmes and Mark Scheuerell
+
+[Fish 507 at the University of Washington](https://catalyst.uw.edu/workspace/fish203/35553/243766)
