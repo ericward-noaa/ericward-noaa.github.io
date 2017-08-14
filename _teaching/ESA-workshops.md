@@ -1,5 +1,6 @@
 ---
 permalink: /teaching/ESA-workshops
+collection: teaching
 ---
 
 ESA Workshops, 2008 - 2011
