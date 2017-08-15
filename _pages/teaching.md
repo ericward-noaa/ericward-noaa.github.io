@@ -9,9 +9,9 @@ University of Washington, Applied Time Series Class, 2012 - present
 =====
 Co-taught FISH 507 Time Series Analysis course with Eli Holmes and Mark Scheuerell
   
-[FISH 507](https://catalyst.uw.edu/workspace/fish203/35553/243766)  
-[Stan code for time series models](https://github.com/nwfsc-timeseries/statss)  
-[Lab book for class](https://nwfsc-timeseries.github.io/AFTSLabbook/)  
+Link to UW's FISH 507 [homepage](https://catalyst.uw.edu/workspace/fish203/35553/243766)  
+Stan code for time series models on Github [here](https://github.com/nwfsc-timeseries/statss)  
+Lab book for course [here](https://nwfsc-timeseries.github.io/AFTSLabbook/)  
 
 ESA Workshops, 2008 - 2011
 =====
