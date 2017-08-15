@@ -5,12 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+'Ward, E.J. 2005. &quot;Differences between fishery-dependent and fishery-independent estimates of single-species and mixed-species dolphin schools: implications for single-species stock assessments.&quot; <i>Marine Mammal Science</i>. 21:189-203.'
