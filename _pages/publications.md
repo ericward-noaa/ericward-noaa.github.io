@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Publications (peer-reviewed)"
 permalink: /publications/
 author_profile: false
 ---
