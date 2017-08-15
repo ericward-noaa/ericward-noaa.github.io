@@ -1,9 +1,9 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
+
 >68. Deacy, W.W., J.B. Armstrong, W.B Leacock, C. Robbins, D.D. Gustine, **E.J. Ward**, J.A. Erlenbach, J.A. Stanford. Phenological synchronization disrupts a keystone trophic interaction between Kodiak brown bears and salmon. *PNAS, in press*
 
 >67. Anderson, S.C., **E.J. Ward**, A.O. Shelton, M.D. Adkison, A.H. Beaudreau, R.E. Brenner, A.C. Haynie, J.C. Shriver, J.T. Watson, and B.C. Williams. Benefits and risks of diversification for individual fishers. *PNAS, in press*
