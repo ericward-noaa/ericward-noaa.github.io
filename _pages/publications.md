@@ -1,7 +1,7 @@
 ---
 title: "Publications (peer-reviewed)"
 permalink: /publications/
-author_profile: false
+author_profile: true
 ---
 
 0. Deacy, W.W., J.B. Armstrong, W.B Leacock, C. Robbins, D.D. Gustine, **E.J. Ward**, J.A. Erlenbach, J.A. Stanford. Phenological synchronization disrupts a keystone trophic interaction between Kodiak brown bears and salmon. *PNAS, in press*
