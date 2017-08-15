@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
->4. <b>Ward</b>, E.J., R. Hilborn, R.G. Towell, and L. Gerber. 2007. &quot;A state-space mixture approach for estimating catastrophic events in time series data.&quot; <i>Canadian Journal of Fisheries and Aquatic Sciences</i>, 64:899-910. link
+>4. <b>Ward</b>, E.J., R. Hilborn, R.G. Towell, and L. Gerber. 2007. &quot;A state-space mixture approach for estimating catastrophic events in time series data.&quot; <i>Canadian Journal of Fisheries and Aquatic Sciences</i>, 64:899-910. [link](http://www.nrcresearchpress.com/doi/abs/10.1139/f07-060?journalCode=cjfas#.WZJtzlqGMcg)
 
 >3. <b>Ward, E.J.</b> 2006. &quot;A new BEAST: Bayesian software tools for ecological trend analysis.&quot; <i>Wildlife Society Bulletin</i>, 34: 1420:1424. doi: 10.2193/0091-7648(2006)34[1420:ANBBST]2.0.CO;2 [link](http://onlinelibrary.wiley.com/doi/10.2193/0091-7648(2006)34%5B1420:ANBBST%5D2.0.CO;2/abstract)
 
