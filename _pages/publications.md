@@ -8,19 +8,19 @@ author_profile: true
 
 0. Chasco, B., I.C. Kaplan, A.C. Thomas, A. Acevedo-Gutiérrez, D.P. Noren, M.J. Ford, M.B. Hanson, J. Scordino, S. Jeffries, K.N. Marshall, A.O. Shelton, C. Matkin, B. Burke, and E.J. Ward. Competing tradeoffs between increasing marine mammal predation and fisheries harvest of Chinook salmon. Nature Scientific Reports, in press
 
-0. Deacy, W.W., J.B. Armstrong, W.B Leacock, C. Robbins, D.D. Gustine, **E.J. Ward**, J.A. Erlenbach, J.A. Stanford. Phenological synchronization disrupts a keystone trophic interaction between Kodiak brown bears and salmon. *PNAS, in press*
+0. Deacy, W.W., J.B. Armstrong, W.B Leacock, C. Robbins, D.D. Gustine, **E.J. Ward**, J.A. Erlenbach, J.A. Stanford. Phenological synchronization disrupts a keystone trophic interaction between Kodiak brown bears and salmon. *PNAS*, 114(39): 10432–10437. [link](http://www.pnas.org/content/114/39/10432.abstract) 
 
-0. Anderson, S.C., **E.J. Ward**, A.O. Shelton, M.D. Adkison, A.H. Beaudreau, R.E. Brenner, A.C. Haynie, J.C. Shriver, J.T. Watson, and B.C. Williams. Benefits and risks of diversification for individual fishers. *PNAS, in press*
+0. Anderson, S.C., **E.J. Ward**, A.O. Shelton, M.D. Adkison, A.H. Beaudreau, R.E. Brenner, A.C. Haynie, J.C. Shriver, J.T. Watson, and B.C. Williams. Benefits and risks of diversification for individual fishers. *PNAS*, 114(40): 10797–10802. [link](http://www.pnas.org/content/114/40/10797.full)
 
-0. Linder, H, J.K. Horne, and **E.J. Ward**. Modeling baseline conditions of ecological indicators: marine renewable energy environmental monitoring ecological indicators. *Ecological Indicators, in press* 
+0. Linder, H, J.K. Horne, and **E.J. Ward**. 2017. Modeling baseline conditions of ecological indicators: marine renewable energy environmental monitoring ecological indicators. *Ecological Indicators*, 83:178-191. [link](http://www.sciencedirect.com/science/article/pii/S1470160X17304284) 
 
-0. Shelton, A.O., M.E. Hunsicker, **E.J. Ward**, B.E. Feist, R. Blake, C.L. Ward, B.C. Williams, J.T. Duffy-Anderson, A.B. Hollowed, A.C. Haynie. Spatio-temporal models reveal subtle changes to demersal communities following the Exxon Valdez oil spill. *ICES Journal of Marine Science, fsx079* 
+0. Shelton, A.O., M.E. Hunsicker, **E.J. Ward**, B.E. Feist, R. Blake, C.L. Ward, B.C. Williams, J.T. Duffy-Anderson, A.B. Hollowed, A.C. Haynie. 2017. Spatio-temporal models reveal subtle changes to demersal communities following the Exxon Valdez oil spill. *ICES Journal of Marine Science, fsx079* 
 
 0. **Ward, E.J.**, M. Adkison, J. Couture, S.C. Dressel, M.A. Litzow, S. Moffitt, T. Hoem Neher, J. Trochta, and R. Brenner. 2017. Evaluating signals of oil spill impacts, climate, and species interactions in Pacific herring and Pacific salmon populations in Prince William Sound and Copper River, Alaska. *PLOS ONE*, 12(3): e0172898.
 
-0. Hussey, N., J. DiBattista, J. Moore, **E.J. Ward**, A. Fisk, S. Kessel, T. Guttridge, K. Feldheim, B. Franks, S. Gruber, O. Weideli, and D. Chapman. Risky business for a marine predator? Testing the influence of foraging strategies on size and growth rate under natural conditions. *Proceedings of the Royal Societety Series B*, 284(1852): 20170166.
+0. Hussey, N., J. DiBattista, J. Moore, **E.J. Ward**, A. Fisk, S. Kessel, T. Guttridge, K. Feldheim, B. Franks, S. Gruber, O. Weideli, and D. Chapman. 2017. Risky business for a marine predator? Testing the influence of foraging strategies on size and growth rate under natural conditions. *Proceedings of the Royal Societety Series B*, 284(1852): 20170166.
 
-0. Chasco, B., I.C. Kaplan, A. Thomas, A. Acevedo-Gutiérrez, D.P. Noren, M.J. Ford, M.B. Hanson, J. Scordino, S.J. Jeffries, S.F. Pearson, K.N. Marshall, and **E.J. Ward**. 2017. Estimates of Chinook salmon consumption in Washingon State inland waters by four marine mammal predators from 1970 – 2015. *Canadian Journal of Fisheries and Aquatic Sciences, in press*. 
+0. Chasco, B., I.C. Kaplan, A. Thomas, A. Acevedo-Gutiérrez, D.P. Noren, M.J. Ford, M.B. Hanson, J. Scordino, S.J. Jeffries, S.F. Pearson, K.N. Marshall, and **E.J. Ward**. 2017. Estimates of Chinook salmon consumption in Washingon State inland waters by four marine mammal predators from 1970 – 2015. *Canadian Journal of Fisheries and Aquatic Sciences*, 74: 1173-1194. 
 
 0. Moriarty, P., T.E. Essington, and **E.J. Ward**. 2017. A novel method to estimate prey contributions to predator diets. *Canadian Journal of Fisheries and Aquatic Sciences*, 74: 168-177.  [link](http://www.nrcresearchpress.com/doi/abs/10.1139/cjfas-2016-0149#.WDIPj-ErLBI)
 
