@@ -4,9 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+0. J. Ohlberger, **E.J. Ward**, D.E. Schindler and B. Lewis. Demographic changes in Chinook salmon across the Northeast Pacific Ocean. Fish and Fisheries, in press
+
 0. **E.J. Ward**, S.C. Anderson, A.O. Shelton, R.E. Brenner, M.D. Adkison, A.H. Beaudreau, J.T. Watson, J.C. Shriver, A.C. Haynie, and B.C. Wiliams. Effects of increased specialization on revenue of Alaskan salmon fishers over four decades. Journal of Applied Ecology, in press
 
-0. Chasco, B., I.C. Kaplan, A.C. Thomas, A. Acevedo-Gutiérrez, D.P. Noren, M.J. Ford, M.B. Hanson, J. Scordino, S. Jeffries, K.N. Marshall, A.O. Shelton, C. Matkin, B. Burke, and **E.J. Ward**. Competing tradeoffs between increasing marine mammal predation and fisheries harvest of Chinook salmon. *Scientific Reports*, 7:15439. [link](https://www.nature.com/articles/s41598-017-14984-8)
+0. Chasco, B.E., I.C. Kaplan, A.C. Thomas, A. Acevedo-Gutiérrez, D.P. Noren, M.J. Ford, M.B. Hanson, J. Scordino, S. Jeffries, K.N. Marshall, A.O. Shelton, C. Matkin, B. Burke, and **E.J. Ward**. Competing tradeoffs between increasing marine mammal predation and fisheries harvest of Chinook salmon. *Scientific Reports*, 7:15439. [link](https://www.nature.com/articles/s41598-017-14984-8)
 
 0. Deacy, W.W., J.B. Armstrong, W.B Leacock, C. Robbins, D.D. Gustine, **E.J. Ward**, J.A. Erlenbach, J.A. Stanford. Phenological synchronization disrupts a keystone trophic interaction between Kodiak brown bears and salmon. *PNAS*, 114(39): 10432–10437. [link](http://www.pnas.org/content/114/39/10432.abstract) 
 
