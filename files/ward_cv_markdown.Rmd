@@ -46,9 +46,11 @@ web: eric-ward.github.io
 
 # Journal Articles (peer - reviewed)
 
+>71. J. Ohlberger, **E.J. Ward**, D.E. Schindler and B. Lewis. Demographic changes in Chinook salmon across the Northeast Pacific Ocean. *Fish and Fisheries, in press*
+
 >70. **E.J. Ward**, S.C. Anderson, A.O. Shelton, R.E. Brenner, M.D. Adkison, A.H. Beaudreau, J.T. Watson, J.C. Shriver, A.C. Haynie, and B.C. Wiliams. Effects of increased specialization on revenue of Alaskan salmon fishers over four decades. *Journal of Applied Ecology, in press*
 
->69. Chasco, B., I.C. Kaplan, A.C. Thomas, A. Acevedo-Gutiérrez, D.P. Noren, M.J. Ford, M.B. Hanson, J. Scordino, S. Jeffries, K.N. Marshall, A.O. Shelton, C. Matkin, B. Burke, and **E.J. Ward**. Competing tradeoffs between increasing marine mammal predation and fisheries harvest of Chinook salmon. *Nature Scientific Reports, in press*
+>69. Chasco, B.E., I.C. Kaplan, A.C. Thomas, A. Acevedo-Gutiérrez, D.P. Noren, M.J. Ford, M.B. Hanson, J. Scordino, S. Jeffries, K.N. Marshall, A.O. Shelton, C. Matkin, B. Burke, and **E.J. Ward**. Competing tradeoffs between increasing marine mammal predation and fisheries harvest of Chinook salmon. *Nature Scientific Reports, in press*
 
 >68. Anderson, S.C., **E.J. Ward**, A.O. Shelton, M.D. Adkison, A.H. Beaudreau, R.E. Brenner, A.C. Haynie, J.C. Shriver, J.T. Watson, and B.C. Williams. Benefits and risks of diversification for individual fishers. *Proceedings of the National Academy of Sciences*, 114(40): 10797–10802. [link]
 (http://www.pnas.org/content/114/40/10797.full)
