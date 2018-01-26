@@ -103,6 +103,8 @@ food-web studies. *Canadian Journal of Zoology*, 92: 823-835. [link](http://www.
 
 0. Holmes, E.E., **E.J. Ward**, and K. Wills. 2012. MARSS: multivariate autoregressive state-space models for analyzing time series data. *R Journal*, 4(1): 11-19. [link](https://journal.r-project.org/archive/2012-1/RJournal_2012-1_Holmes~et~al.pdf)
 
+0. Pattengill-Semmens, C.V., B.X. Semmens, E.E. Holmes, **E.J. Ward**, and B.I. Ruttenberg. Integrating time-series of community monitoring data. Proceedings of the 63rd Gulf and Caribbean Fisheries Institute, 214-216. [link](http://aquaticcommons.org/15539/1/GCFI_63-40.pdf)
+
 0. Holtgrieve, G., D.E. Schindler, W.O. Hobbs, P.R. Leavitt, **E.J. Ward**, L. Bunting, G. Chen, B.P. Finney, I. Gregory-Eaves, S. Holmgren, M.J. Lisac, P.J. Lisi, K. Nydick, L.A. Rogers, J.E. Saros, D.T. Selbie, M.D. Shapley, P.B. Walsh, and A.P. Wolfe. 2011. A coherent signature of anthropogenic nitrogen deposition to remote watersheds of the Northern Hemisphere. *Science*, 16: 1545-1548. doi: 10.1126/science.1212267. [link](http://science.sciencemag.org/content/334/6062/1545)
 
 0. Yeakel, J.D., M. Novak, P.R. Guimarães Jr., N.J. Dominy, P.L. Koch, **E.J. Ward**, J.W. Moore, and B.X. Semmens. 2011. Merging resource availability with isotope mixing models: the role of neutral interaction assumptions. *PLoS ONE*, 6(7): e22015. [link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0022015)
