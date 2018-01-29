@@ -8,7 +8,7 @@ author_profile: true
 
 0. **E.J. Ward**, S.C. Anderson, A.O. Shelton, R.E. Brenner, M.D. Adkison, A.H. Beaudreau, J.T. Watson, J.C. Shriver, A.C. Haynie, and B.C. Wiliams. Effects of increased specialization on revenue of Alaskan salmon fishers over four decades. Journal of Applied Ecology, in press
 
-0. Shelton, A.O., M.E. Hunsicker, **E.J. Ward**, B.E. Feist, R. Blake, C.L. Ward, B.C. Williams, J.T. Duffy-Anderson, A.B. Hollowed, A.C. Haynie. 2017. Spatio-temporal models reveal subtle changes to demersal communities following the Exxon Valdez oil spill. *ICES Journal of Marine Science*, 75:287-297. [link](https://doi.org/10.1093/icesjms/fsx079)
+0. Shelton, A.O., M.E. Hunsicker, **E.J. Ward**, B.E. Feist, R. Blake, C.L. Ward, B.C. Williams, J.T. Duffy-Anderson, A.B. Hollowed, A.C. Haynie. 2018. Spatio-temporal models reveal subtle changes to demersal communities following the Exxon Valdez oil spill. *ICES Journal of Marine Science*, 75:287-297. [link](https://doi.org/10.1093/icesjms/fsx079)
 
 0. Chasco, B.E., I.C. Kaplan, A.C. Thomas, A. Acevedo-Gutiérrez, D.P. Noren, M.J. Ford, M.B. Hanson, J. Scordino, S. Jeffries, K.N. Marshall, A.O. Shelton, C. Matkin, B. Burke, and **E.J. Ward**. Competing tradeoffs between increasing marine mammal predation and fisheries harvest of Chinook salmon. *Scientific Reports*, 7:15439. [link](https://www.nature.com/articles/s41598-017-14984-8)
 
