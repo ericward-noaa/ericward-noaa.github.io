@@ -8,15 +8,15 @@ author_profile: true
 
 0. **E.J. Ward**, S.C. Anderson, A.O. Shelton, R.E. Brenner, M.D. Adkison, A.H. Beaudreau, J.T. Watson, J.C. Shriver, A.C. Haynie, and B.C. Wiliams. Effects of increased specialization on revenue of Alaskan salmon fishers over four decades. Journal of Applied Ecology, in press
 
+0. Shelton, A.O., M.E. Hunsicker, **E.J. Ward**, B.E. Feist, R. Blake, C.L. Ward, B.C. Williams, J.T. Duffy-Anderson, A.B. Hollowed, A.C. Haynie. 2017. Spatio-temporal models reveal subtle changes to demersal communities following the Exxon Valdez oil spill. *ICES Journal of Marine Science*, 75:287-297. [link](https://doi.org/10.1093/icesjms/fsx079)
+
 0. Chasco, B.E., I.C. Kaplan, A.C. Thomas, A. Acevedo-Gutiérrez, D.P. Noren, M.J. Ford, M.B. Hanson, J. Scordino, S. Jeffries, K.N. Marshall, A.O. Shelton, C. Matkin, B. Burke, and **E.J. Ward**. Competing tradeoffs between increasing marine mammal predation and fisheries harvest of Chinook salmon. *Scientific Reports*, 7:15439. [link](https://www.nature.com/articles/s41598-017-14984-8)
 
-0. Deacy, W.W., J.B. Armstrong, W.B Leacock, C. Robbins, D.D. Gustine, **E.J. Ward**, J.A. Erlenbach, J.A. Stanford. Phenological synchronization disrupts a keystone trophic interaction between Kodiak brown bears and salmon. *PNAS*, 114(39): 10432–10437. [link](http://www.pnas.org/content/114/39/10432.abstract) 
+0. Deacy, W.W., J.B. Armstrong, W.B Leacock, C. Robbins, D.D. Gustine, **E.J. Ward**, J.A. Erlenbach, J.A. Stanford. 2017. Phenological synchronization disrupts a keystone trophic interaction between Kodiak brown bears and salmon. *PNAS*, 114(39): 10432–10437. [link](http://www.pnas.org/content/114/39/10432.abstract) 
 
 0. Anderson, S.C., **E.J. Ward**, A.O. Shelton, M.D. Adkison, A.H. Beaudreau, R.E. Brenner, A.C. Haynie, J.C. Shriver, J.T. Watson, and B.C. Williams. Benefits and risks of diversification for individual fishers. *PNAS*, 114(40): 10797–10802. [link](http://www.pnas.org/content/114/40/10797.full)
 
 0. Linder, H, J.K. Horne, and **E.J. Ward**. 2017. Modeling baseline conditions of ecological indicators: marine renewable energy environmental monitoring ecological indicators. *Ecological Indicators*, 83:178-191. [link](http://www.sciencedirect.com/science/article/pii/S1470160X17304284) 
-
-0. Shelton, A.O., M.E. Hunsicker, **E.J. Ward**, B.E. Feist, R. Blake, C.L. Ward, B.C. Williams, J.T. Duffy-Anderson, A.B. Hollowed, A.C. Haynie. 2017. Spatio-temporal models reveal subtle changes to demersal communities following the Exxon Valdez oil spill. *ICES Journal of Marine Science, fsx079* 
 
 0. **Ward, E.J.**, M. Adkison, J. Couture, S.C. Dressel, M.A. Litzow, S. Moffitt, T. Hoem Neher, J. Trochta, and R. Brenner. 2017. Evaluating signals of oil spill impacts, climate, and species interactions in Pacific herring and Pacific salmon populations in Prince William Sound and Copper River, Alaska. *PLOS ONE*, 12(3): e0172898.
 
