@@ -51,10 +51,8 @@ web: eric-ward.github.io
 
 ```{r echo = FALSE, results='asis', comment=NA}
 library(RefManageR)
-BibOptions(restore.defaults = TRUE)
 biblio = ReadBib(file = "myCV.bib")
 BibOptions(sorting = "ydnt")
-biblio = sort(biblio, sorting = "ydnt", decreasing = TRUE)
 
 parse_authors = function(s) {
   # first author
@@ -89,58 +87,22 @@ parse_authors = function(s) {
   return(s_str)
 }
 
-parse_title = function(s) {
-  # remove bibtex formats
-  s = gsub("\\textendash{}", "-", s, fixed=TRUE)
-  words = strsplit(s, " ")[[1]]
-  str = words[1]
-  for(i in 2:length(words)) {
-    words[i] = tolower(words[i])
-    str = paste(str, words[i])
-  }
-  # find locations of words' first characters
-  init_pos = as.numeric(gregexpr(" ", str, fixed=TRUE)[[1]]) + 1
-  # also include words right in a bracket
-  init_pos = c(init_pos, as.numeric(gregexpr("{{", str, fixed=TRUE)[[1]]) + 2)
-  # find locations of brackets. any words in this range are in caps
-  bracket_pos = cbind(as.numeric(gregexpr("{{", str, fixed=TRUE)[[1]]),
-    as.numeric(gregexpr("}}", str, fixed=TRUE)[[1]]))
-  for(i in 1:nrow(bracket_pos)) {
-    for(j in 1:length(init_pos)) {
-      if(init_pos[j] > as.numeric(bracket_pos[i,1]) & init_pos[j] < as.numeric(bracket_pos[i,2])) {
-        beg = substr(str, 1, init_pos[j]-1)
-        mid = substr(str, init_pos[j], init_pos[j])
-        end = substr(str, init_pos[j]+1, nchar(str))
-        str = paste0(beg,toupper(mid),end)
-      }
-    }
-  }
-  
-  # remove curly brackets from string
-  str = gsub("\\{", "", str)
-  str = gsub("\\}", "", str)
-  return(str)
-}
-
 # Write script to parse bib file into individual entries. These include author list, year, title, journal, volume, pages, doi
 for(n in length(biblio):1) {
   # $author, $year, $title, $volume, $pages, $doi
   # parse author list
   author_str = parse_authors(biblio[[n]]$author)
-  n_i = n
-  title_str = parse_title(biblio[[n]]$title)
-  
-  doi_str = biblio[[n]]$doi
-  doi_str = ifelse(is.null(doi_str), "", paste0("[link](http://dx.doi.org/",biblio[[n]]$doi,")"))
+  n_i = n#70 - n + 1
   ref = paste0(">",n_i,". ", author_str, ". ", 
-    biblio[[n]]$year, ". ", title_str, ". ",
+    biblio[[n]]$year, ". ", biblio[[n]]$title, ". ",
     "*", biblio[[n]]$journal, "*, ", biblio[[n]]$volume, ":",
-    biblio[[n]]$pages, ". ", doi_str, "\n \n")
+    biblio[[n]]$pages, ". doi:", biblio[[n]]$doi, "\n \n")
 
   cat(ref)
 }
 
 ```
+
 
 # Technical Reports
 
