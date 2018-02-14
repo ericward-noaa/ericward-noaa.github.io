@@ -188,6 +188,10 @@ for(n in length(biblio):1) {
 
 # External Funding
 
+**2018-2020** M. Hunsicker, M. Litzow, E.J. Ward, B. Burke, S. Zador, C. Cunningham, and N. Bond. **Measuring the strength of ocean-atmosphere coupling to predict climate forcing of northeast Pacific ecosystems.** FATE (Fisheries And The Environment), $73K. 
+
+**2018-2020** E.J. Ward, C. Harvey, J. Samhouri, etc. *Spatial ecosystem state and pressure indicators and scale-dependence of temporal indicator performance*. FATE (Fisheries And The Environment), $192K.  
+
 **2018-2020** G. Holtgrieve, C. Harvey, and E.J. Ward. *Reconstructing a Century of Coastal Productivity and Predator Trophic Dynamics using Compound-specific Stable Isotopes from Archival Bone Specimens*. Washington Sea Grant, $192K.
 
 **2018-2020** L. Hauser, B. Vadopalas, R. Childer, B. Hudson, B. Eudeline, and E.J. Ward. *Development of genetic risk assessment tools and Management Strategy Evaluation for Aquaculture of Native Shellfish*. Saltonstall-Kennedy Grant, $299K.
