@@ -4,9 +4,21 @@ permalink: /publications/
 author_profile: true
 ---
 
-0. J. Ohlberger, **E.J. Ward**, D.E. Schindler and B. Lewis. Demographic changes in Chinook salmon across the Northeast Pacific Ocean. Fish and Fisheries, in press
+0. Anderson, S.C., and **E.J. Ward**. In press. Black swans in space: modelling
+spatiotemporal processes with extremes. *Ecology*, in press
 
-0. **E.J. Ward**, S.C. Anderson, A.O. Shelton, R.E. Brenner, M.D. Adkison, A.H. Beaudreau, J.T. Watson, J.C. Shriver, A.C. Haynie, and B.C. Wiliams. Effects of increased specialization on revenue of Alaskan salmon fishers over four decades. Journal of Applied Ecology, in press
+0. Ford, M.J., K.M. Parsons, **E.J. Ward**, J.A. Hempelmann, C.K. Emmons, M.B.
+Hanson, K.C. Balcomb, and L.K. Park. Inbreeding in an endangered
+killer whale population. *Animal Conservation*, in press
+
+0. Shelton, A.O., W.H. Satterthwaite, **E.J. Ward**, B.E. Feist, and B.J. Burke. In press.
+Using hierarchical models to estimate stock-specific and seasonal variation in
+ocean distribution, survivorship, and aggregate abundance of fall run chinook
+salmon. *Canadian Journal of Fisheries and Aquatic Sciences*, in press
+
+0. J. Ohlberger, **E.J. Ward**, D.E. Schindler and B. Lewis. Demographic changes in Chinook salmon across the Northeast Pacific Ocean. *Fish and Fisheries*, in press
+
+0. **E.J. Ward**, S.C. Anderson, A.O. Shelton, R.E. Brenner, M.D. Adkison, A.H. Beaudreau, J.T. Watson, J.C. Shriver, A.C. Haynie, and B.C. Wiliams. Effects of increased specialization on revenue of Alaskan salmon fishers over four decades. *Journal of Applied Ecology*, in press
 
 0. Shelton, A.O., M.E. Hunsicker, **E.J. Ward**, B.E. Feist, R. Blake, C.L. Ward, B.C. Williams, J.T. Duffy-Anderson, A.B. Hollowed, A.C. Haynie. 2018. Spatio-temporal models reveal subtle changes to demersal communities following the Exxon Valdez oil spill. *ICES Journal of Marine Science*, 75:287-297. [link](https://doi.org/10.1093/icesjms/fsx079)
 
