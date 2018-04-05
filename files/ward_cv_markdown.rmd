@@ -191,6 +191,8 @@ for(n in length(biblio):1) {
 
 # External Funding
 
+**2018-2020** A.O. Shelton, J. Watson, C. Cunningham, E.J. Ward, A. Grey, M.J. Ford, K. Sommers. *Integrating Chinook Catches from Directed Fisheries and Trawl Bycatch to Improve Distribution Information for Bycatch Avoidance and Impacts On Predators in a Changing Environment.* NOAA, $200K. 
+
 **2018-2020** M. Hunsicker, M. Litzow, E.J. Ward, B. Burke, S. Zador, C. Cunningham, and N. Bond. *Measuring the strength of ocean-atmosphere coupling to predict climate forcing of northeast Pacific ecosystems.* FATE (Fisheries And The Environment), $73K. 
 
 **2018-2020** E.J. Ward, C. Harvey, J. Samhouri, etc. *Spatial ecosystem state and pressure indicators and scale-dependence of temporal indicator performance*. FATE (Fisheries And The Environment), $192K.  
