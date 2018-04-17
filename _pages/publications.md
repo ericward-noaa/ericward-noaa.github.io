@@ -18,7 +18,7 @@ salmon. *Canadian Journal of Fisheries and Aquatic Sciences*, in press
 
 0. J. Ohlberger, **E.J. Ward**, D.E. Schindler and B. Lewis. Demographic changes in Chinook salmon across the Northeast Pacific Ocean. *Fish and Fisheries*, in press
 
-0. **E.J. Ward**, S.C. Anderson, A.O. Shelton, R.E. Brenner, M.D. Adkison, A.H. Beaudreau, J.T. Watson, J.C. Shriver, A.C. Haynie, and B.C. Wiliams. Effects of increased specialization on revenue of Alaskan salmon fishers over four decades. *Journal of Applied Ecology*, in press
+0. **E.J. Ward**, S.C. Anderson, A.O. Shelton, R.E. Brenner, M.D. Adkison, A.H. Beaudreau, J.T. Watson, J.C. Shriver, A.C. Haynie, and B.C. Wiliams. 2018. Effects of increased specialization on revenue of Alaskan salmon fishers over four decades. *Journal of Applied Ecology*, 55:1082-1091. [link](https://doi.org/10.1111/1365-2664.13058)
 
 0. Shelton, A.O., M.E. Hunsicker, **E.J. Ward**, B.E. Feist, R. Blake, C.L. Ward, B.C. Williams, J.T. Duffy-Anderson, A.B. Hollowed, A.C. Haynie. 2018. Spatio-temporal models reveal subtle changes to demersal communities following the Exxon Valdez oil spill. *ICES Journal of Marine Science*, 75:287-297. [link](https://doi.org/10.1093/icesjms/fsx079)
 
