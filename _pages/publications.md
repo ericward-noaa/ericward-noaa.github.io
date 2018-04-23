@@ -4,6 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+0. Bal, G., M.D. Scheuerell, and **E.J. Ward**. Characterizing the strength of density dependence in at-risk species through Bayesian model averaging. *Ecological Modelling*, in press
+
 0. Anderson, S.C., and **E.J. Ward**. In press. Black swans in space: modelling
 spatiotemporal processes with extremes. *Ecology*, in press
 
