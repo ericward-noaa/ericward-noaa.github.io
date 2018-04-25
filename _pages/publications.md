@@ -4,6 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+0. Stock, B.C., A.L. Jackson, **E.J. Ward**, A.C. Parnell, D.L. Phillips, and B.X. Semmens. Analyzing mixing systems using a new generation of Bayesian tracer mixing models. *Peer J*, [link](https://peerj.com/preprints/26884/)
+
 0. Bal, G., M.D. Scheuerell, and **E.J. Ward**. Characterizing the strength of density dependence in at-risk species through Bayesian model averaging. *Ecological Modelling*, in press
 
 0. Anderson, S.C., and **E.J. Ward**. In press. Black swans in space: modelling
