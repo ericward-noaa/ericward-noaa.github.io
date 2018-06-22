@@ -4,23 +4,23 @@ permalink: /publications/
 author_profile: true
 ---
 
+0. Anderson, S.C., and **E.J. Ward**. In press. Black swans in space: modelling
+spatiotemporal processes with extremes. *Ecology*, [link](https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1002/ecy.2403)
+
 0. Stock, B.C., A.L. Jackson, **E.J. Ward**, A.C. Parnell, D.L. Phillips, and B.X. Semmens. Analyzing mixing systems using a new generation of Bayesian tracer mixing models. *Peer J*, [link](https://peerj.com/preprints/26884/)
 
-0. Bal, G., M.D. Scheuerell, and **E.J. Ward**. Characterizing the strength of density dependence in at-risk species through Bayesian model averaging. *Ecological Modelling*, in press
-
-0. Anderson, S.C., and **E.J. Ward**. In press. Black swans in space: modelling
-spatiotemporal processes with extremes. *Ecology*, in press
+0. Bal, G., M.D. Scheuerell, and **E.J. Ward**. Characterizing the strength of density dependence in at-risk species through Bayesian model averaging. *Ecological Modelling*, [link](https://www.sciencedirect.com/science/article/pii/S0304380018301297)
 
 0. Ford, M.J., K.M. Parsons, **E.J. Ward**, J.A. Hempelmann, C.K. Emmons, M.B.
 Hanson, K.C. Balcomb, and L.K. Park. Inbreeding in an endangered
-killer whale population. *Animal Conservation*, in press
+killer whale population. *Animal Conservation*, [link](https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/acv.12413)
 
-0. Shelton, A.O., W.H. Satterthwaite, **E.J. Ward**, B.E. Feist, and B.J. Burke. In press.
+0. Shelton, A.O., W.H. Satterthwaite, **E.J. Ward**, B.E. Feist, and B.J. Burke. 2018.
 Using hierarchical models to estimate stock-specific and seasonal variation in
 ocean distribution, survivorship, and aggregate abundance of fall run chinook
-salmon. *Canadian Journal of Fisheries and Aquatic Sciences*, in press
+salmon. *Canadian Journal of Fisheries and Aquatic Sciences*, in press. [link](http://www.nrcresearchpress.com/doi/abs/10.1139/cjfas-2017-0204#.Wy1qMxJKiWs)
 
-0. J. Ohlberger, **E.J. Ward**, D.E. Schindler and B. Lewis. Demographic changes in Chinook salmon across the Northeast Pacific Ocean. *Fish and Fisheries*, in press
+0. J. Ohlberger, **E.J. Ward**, D.E. Schindler and B. Lewis. Demographic changes in Chinook salmon across the Northeast Pacific Ocean. *Fish and Fisheries*, in press. [link](https://onlinelibrary.wiley.com/doi/full/10.1111/faf.12272)
 
 0. **E.J. Ward**, S.C. Anderson, A.O. Shelton, R.E. Brenner, M.D. Adkison, A.H. Beaudreau, J.T. Watson, J.C. Shriver, A.C. Haynie, and B.C. Wiliams. 2018. Effects of increased specialization on revenue of Alaskan salmon fishers over four decades. *Journal of Applied Ecology*, 55:1082-1091. [link](https://doi.org/10.1111/1365-2664.13058)
 
