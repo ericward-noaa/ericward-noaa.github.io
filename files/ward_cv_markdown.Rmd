@@ -148,7 +148,9 @@ for(n in length(biblio):1) {
 
 # Technical Reports
 
->12. Ferguson, L., M. Srinivasan, E. Oleson, S. Hayes, S.K. Brown, R. Angliss, J. Carretta, E. Holmes, **E.J. Ward**, J. Kocik, K. Mullin, R. Dean, and J. Davis (eds.). 2017. Proceedings of the First National Protected Species Assessment Workshop. U.S. Dept. of Commer., NOAA. NOAA Technical Memorandum NMFS-F/SPO-172, 92 p. [link](http://spo.nmfs.noaa.gov/sites/default/files/TMSPO172.pdf)
+>13. Ferguson, L., M. Srinivasan, E. Oleson, S. Hayes, S.K. Brown, R. Angliss, J. Carretta, E. Holmes, **E.J. Ward**, J. Kocik, K. Mullin, R. Dean, and J. Davis (eds.). 2017. Proceedings of the First National Protected Species Assessment Workshop. U.S. Dept. of Commer., NOAA. NOAA Technical Memorandum NMFS-F/SPO-172, 92 p. [link](http://spo.nmfs.noaa.gov/sites/default/files/TMSPO172.pdf)
+
+>12. Hanson, M.B., **E.J. Ward**, C.K. Emmons, M.M. Holt, and D.M. Holzer. 2017. Assessing the movements and occurrence of Southern Resident Killer Whales relative to the U.S. Navy’s Northwest Training Range Complex in the Pacific Northwest. Prepared for: U.S. Navy, U.S. Pacific Fleet, Pearl Harbor, HI. Prepared by: National Oceanic and Atmospheric Administration, Northwest Fisheries Science Center under MIPR N00070-15-MP-4C363.
 
 >11. Denton, K., M. McHenry, R. Moses, **E.J. Ward**, M. Liermann, O. Stefankiv, W. Wells and G. Pess. 2016 Elwha River Steelhead Escapement Estimate Based on DIDSON/ARIS Multi-Beam SONAR Data.
 
