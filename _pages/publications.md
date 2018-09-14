@@ -4,6 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+0. Stock, B.C., **E.J. Ward**, J.T. Thorson, J.E. Jannot, and B.X. Semmens. The utility of spatial model-based estimators of unobserved bycatch, *ICES Journal of Marine Science, in press*
+
 0. **Ward, E.J.**, K.L. Oken, K.A. Rose, S. Sable, K. Watkins, E.E. Holmes, and M.D. Scheuerell. Applying spatiotemporal models to monitoring data to quantify fish population responses to the Deepwater Horizon oil spill in the Gulf of Mexico, *Environmental Monitoring and Assessment, in press*
 
 0. Anderson, S.C., and **E.J. Ward**. In press. Black swans in space: modelling
