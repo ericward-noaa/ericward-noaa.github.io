@@ -148,6 +148,8 @@ for(n in length(biblio):1) {
 
 # Technical Reports
 
+>14. Harvey, C.J., N. Garfield, G.D. Williams, N. Tolimieri, E.L. Hazen, I.D. Schroeder, K.S. Andrews, C. Barceló, K. Barnas, S.J. Bograd, R.D. Brodeur, B.J. Burke, J.M. Cope, L. deWitt, J.C. Field, J.L. Fisher, T.P. Good, C.M. Greene, D.S. Holland, M.E. Hunsicker, M. Jacox, S. Kasperski, S.J. Kim, A. Leising, S.R. Melin, C.A. Morgan, B. Muhling, S.H. Munsch, K. Norman, W.T. Peterson, M.R. Poe, J.F. Samhouri, W.J. Sydeman, J.Thayer, A.R. Thompson, A. Varney, B.K. Wells, T.H. Williams, J.E. Zamon, D. Lawson, S.C. Anderson, J. Gao, M.A. Litzow, S. McClatchie, E.J. Ward, S. Zador. Ecosystem status report of the California Current for 2018: a summary of ecosystem indicators compiled by the California Current Integrated Ecosystem Assessment team (CCIEA). U.S. Dept. of Commer., NOAA. NOAA Technical Memorandum
+
 >13. Ferguson, L., M. Srinivasan, E. Oleson, S. Hayes, S.K. Brown, R. Angliss, J. Carretta, E. Holmes, **E.J. Ward**, J. Kocik, K. Mullin, R. Dean, and J. Davis (eds.). 2017. Proceedings of the First National Protected Species Assessment Workshop. U.S. Dept. of Commer., NOAA. NOAA Technical Memorandum NMFS-F/SPO-172, 92 p. [link](http://spo.nmfs.noaa.gov/sites/default/files/TMSPO172.pdf)
 
 >12. Hanson, M.B., **E.J. Ward**, C.K. Emmons, M.M. Holt, and D.M. Holzer. 2017. Assessing the movements and occurrence of Southern Resident Killer Whales relative to the U.S. Navy’s Northwest Training Range Complex in the Pacific Northwest. Prepared for: U.S. Navy, U.S. Pacific Fleet, Pearl Harbor, HI. Prepared by: National Oceanic and Atmospheric Administration, Northwest Fisheries Science Center under MIPR N00070-15-MP-4C363.
