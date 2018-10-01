@@ -6,18 +6,18 @@ author_profile: true
 
 0. Stock, B.C., **E.J. Ward**, J.T. Thorson, J.E. Jannot, and B.X. Semmens. The utility of spatial model-based estimators of unobserved bycatch, *ICES Journal of Marine Science, in press*
 
-0. **Ward, E.J.**, K.L. Oken, K.A. Rose, S. Sable, K. Watkins, E.E. Holmes, and M.D. Scheuerell. Applying spatiotemporal models to monitoring data to quantify fish population responses to the Deepwater Horizon oil spill in the Gulf of Mexico, *Environmental Monitoring and Assessment, in press*
+0. **Ward, E.J.**, K.L. Oken, K.A. Rose, S. Sable, K. Watkins, E.E. Holmes, and M.D. Scheuerell. Applying spatiotemporal models to monitoring data to quantify fish population responses to the Deepwater Horizon oil spill in the Gulf of Mexico, *Environmental Monitoring and Assessment*, 190(9):530. [link](doi: 10.1007/s10661-018-6912-z)
 
 0. Anderson, S.C., and **E.J. Ward**. In press. Black swans in space: modelling
 spatiotemporal processes with extremes. *Ecology*, [link](https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1002/ecy.2403)
 
-0. Stock, B.C., A.L. Jackson, **E.J. Ward**, A.C. Parnell, D.L. Phillips, and B.X. Semmens. Analyzing mixing systems using a new generation of Bayesian tracer mixing models. *Peer J*, [link](https://peerj.com/preprints/26884/)
+0. Stock, B.C., A.L. Jackson, **E.J. Ward**, A.C. Parnell, D.L. Phillips, and B.X. Semmens. Analyzing mixing systems using a new generation of Bayesian tracer mixing models. *Peer J*, 6:e5096. [link](https://peerj.com/articles/5096/)
 
-0. Bal, G., M.D. Scheuerell, and **E.J. Ward**. Characterizing the strength of density dependence in at-risk species through Bayesian model averaging. *Ecological Modelling*, [link](https://www.sciencedirect.com/science/article/pii/S0304380018301297)
+0. Bal, G., M.D. Scheuerell, and **E.J. Ward**. Characterizing the strength of density dependence in at-risk species through Bayesian model averaging. *Ecological Modelling*, 381:1-9. [link](https://www.sciencedirect.com/science/article/pii/S0304380018301297)
 
 0. Ford, M.J., K.M. Parsons, **E.J. Ward**, J.A. Hempelmann, C.K. Emmons, M.B.
 Hanson, K.C. Balcomb, and L.K. Park. Inbreeding in an endangered
-killer whale population. *Animal Conservation*, [link](https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/acv.12413)
+killer whale population. *Animal Conservation*, 21:423-432. [link](https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/acv.12413)
 
 0. Shelton, A.O., W.H. Satterthwaite, **E.J. Ward**, B.E. Feist, and B.J. Burke. 2018.
 Using hierarchical models to estimate stock-specific and seasonal variation in
