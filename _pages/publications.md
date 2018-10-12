@@ -3,6 +3,9 @@ title: "Publications (peer-reviewed)"
 permalink: /publications/
 author_profile: true
 ---
+0. Stock, B.C., **E.J. Ward**, T. Eguchi, J.E. Jannot, J.T. Thorson, B.E. Feist, and B.X. Semmens. Comparing predictions of fisheries bycatch using multiple spatiotemporal species distribution model frameworks. *Canadian Journal of Fisheries and Aquatic Sciences, in press*. 
+
+0. **Ward, E.J.**, H. Delgado-Nordmann, R. Brenner, A.H Beaudreau, S.D. Moffitt, A.O Shelton. Assessing long-term changes in sex ratios of Pacific herring in Prince William Sound, Alaska. *Fisheries Research, in press*. 
 
 0. Stock, B.C., **E.J. Ward**, J.T. Thorson, J.E. Jannot, and B.X. Semmens. The utility of spatial model-based estimators of unobserved bycatch, *ICES Journal of Marine Science, in press*
 
