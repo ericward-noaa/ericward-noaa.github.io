@@ -57,6 +57,24 @@ biblio = ReadBib(file = "myCV.bib")
 BibOptions(sorting = "ydnt", match.date = 'year.month')
 biblio = sort(biblio, decreasing = TRUE)
 
+# overwrite default sorting, to sort by year and month
+df = data.frame(years = rep(NA, length(biblio)),
+months = rep(NA, length(biblio)))
+for(i in 1:nrow(df)) {
+  df$years[i] = biblio[[i]]$year
+  if(!is.null(biblio[[i]]$month)) {
+    df$months[i] = biblio[[i]]$month
+  }
+}
+df$months = match(df$months, c("jan","feb","mar","apr","may","jun",
+  "jul","aug","sep","oct","nov","dec"))
+df$order = 1:nrow(df)
+for(y in unique(df$years)) {
+  indx = which(df$years==y)
+  df$order[indx] = df$order[indx][sort(df$months[indx], index.return=TRUE)$ix]
+}
+biblio = biblio[[df$order]]
+
 parse_authors = function(s) {
   # first author
   s_init = strsplit(as.character(s[[1]]), " ")[[1]]
