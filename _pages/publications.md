@@ -3,6 +3,9 @@ title: "Publications (peer-reviewed)"
 permalink: /publications/
 author_profile: true
 ---
+
+0. Marshall, K.N., J. Duffy-Anderson, **E.J. Ward**, S.C. Anderson, M.E. Hunsicker, and B.C. Williams. Long-term trends in ichthyoplankton assemblage structure, biodiversity, and synchrony in the Gulf of Alaska and their relationships to ocean conditions. *Progress in Oceanography, in press*
+
 0. Stock, B.C., **E.J. Ward**, T. Eguchi, J.E. Jannot, J.T. Thorson, B.E. Feist, and B.X. Semmens. Comparing predictions of fisheries bycatch using multiple spatiotemporal species distribution model frameworks. *Canadian Journal of Fisheries and Aquatic Sciences, in press*. 
 
 0. **Ward, E.J.**, H. Delgado-Nordmann, R. Brenner, A.H Beaudreau, S.D. Moffitt, A.O Shelton. Assessing long-term changes in sex ratios of Pacific herring in Prince William Sound, Alaska. *Fisheries Research, in press*. 
