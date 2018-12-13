@@ -6,11 +6,19 @@ author_profile: true
 
 0. Marshall, K.N., J. Duffy-Anderson, **E.J. Ward**, S.C. Anderson, M.E. Hunsicker, and B.C. Williams. Long-term trends in ichthyoplankton assemblage structure, biodiversity, and synchrony in the Gulf of Alaska and their relationships to ocean conditions. *Progress in Oceanography, in press*
 
-0. Stock, B.C., **E.J. Ward**, T. Eguchi, J.E. Jannot, J.T. Thorson, B.E. Feist, and B.X. Semmens. Comparing predictions of fisheries bycatch using multiple spatiotemporal species distribution model frameworks. *Canadian Journal of Fisheries and Aquatic Sciences, in press*. 
-
 0. **Ward, E.J.**, H. Delgado-Nordmann, R. Brenner, A.H Beaudreau, S.D. Moffitt, A.O Shelton. Assessing long-term changes in sex ratios of Pacific herring in Prince William Sound, Alaska. *Fisheries Research, in press*. 
 
+0. J. Ohlberger, **E.J. Ward**, D.E. Schindler and B. Lewis. Demographic changes in Chinook salmon across the Northeast Pacific Ocean. *Fish and Fisheries*, in press. [link](https://onlinelibrary.wiley.com/doi/full/10.1111/faf.12272)
+
+0. Stock, B.C., **E.J. Ward**, T. Eguchi, J.E. Jannot, J.T. Thorson, B.E. Feist, and B.X. Semmens. Comparing predictions of fisheries bycatch using multiple spatiotemporal species distribution model frameworks. *Canadian Journal of Fisheries and Aquatic Sciences, in press*. 
+
 0. Stock, B.C., **E.J. Ward**, J.T. Thorson, J.E. Jannot, and B.X. Semmens. The utility of spatial model-based estimators of unobserved bycatch, *ICES Journal of Marine Science, in press*
+
+0. **E.J. Ward**, S.C. Anderson, A.O. Shelton, R.E. Brenner, M.D. Adkison, A.H. Beaudreau, J.T. Watson, J.C. Shriver, A.C. Haynie, and B.C. Wiliams. 2018. Effects of increased specialization on revenue of Alaskan salmon fishers over four decades. *Journal of Applied Ecology*, 55:1082-1091. [link](https://doi.org/10.1111/1365-2664.13058)
+
+0. Ford, M.J., K.M. Parsons, **E.J. Ward**, J.A. Hempelmann, C.K. Emmons, M.B.
+Hanson, K.C. Balcomb, and L.K. Park. Inbreeding in an endangered
+killer whale population. *Animal Conservation*, 21:423-432. [link](https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/acv.12413)
 
 0. **Ward, E.J.**, K.L. Oken, K.A. Rose, S. Sable, K. Watkins, E.E. Holmes, and M.D. Scheuerell. Applying spatiotemporal models to monitoring data to quantify fish population responses to the Deepwater Horizon oil spill in the Gulf of Mexico, *Environmental Monitoring and Assessment*, 190(9):530. [link](https://doi.org/10.1007/s10661-018-6912-z)
 
@@ -21,18 +29,10 @@ spatiotemporal processes with extremes. *Ecology*, [link](https://esajournals.on
 
 0. Bal, G., M.D. Scheuerell, and **E.J. Ward**. Characterizing the strength of density dependence in at-risk species through Bayesian model averaging. *Ecological Modelling*, 381:1-9. [link](https://www.sciencedirect.com/science/article/pii/S0304380018301297)
 
-0. Ford, M.J., K.M. Parsons, **E.J. Ward**, J.A. Hempelmann, C.K. Emmons, M.B.
-Hanson, K.C. Balcomb, and L.K. Park. Inbreeding in an endangered
-killer whale population. *Animal Conservation*, 21:423-432. [link](https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/acv.12413)
-
 0. Shelton, A.O., W.H. Satterthwaite, **E.J. Ward**, B.E. Feist, and B.J. Burke. 2018.
 Using hierarchical models to estimate stock-specific and seasonal variation in
 ocean distribution, survivorship, and aggregate abundance of fall run chinook
 salmon. *Canadian Journal of Fisheries and Aquatic Sciences*, in press. [link](http://www.nrcresearchpress.com/doi/abs/10.1139/cjfas-2017-0204#.Wy1qMxJKiWs)
-
-0. J. Ohlberger, **E.J. Ward**, D.E. Schindler and B. Lewis. Demographic changes in Chinook salmon across the Northeast Pacific Ocean. *Fish and Fisheries*, in press. [link](https://onlinelibrary.wiley.com/doi/full/10.1111/faf.12272)
-
-0. **E.J. Ward**, S.C. Anderson, A.O. Shelton, R.E. Brenner, M.D. Adkison, A.H. Beaudreau, J.T. Watson, J.C. Shriver, A.C. Haynie, and B.C. Wiliams. 2018. Effects of increased specialization on revenue of Alaskan salmon fishers over four decades. *Journal of Applied Ecology*, 55:1082-1091. [link](https://doi.org/10.1111/1365-2664.13058)
 
 0. Shelton, A.O., M.E. Hunsicker, **E.J. Ward**, B.E. Feist, R. Blake, C.L. Ward, B.C. Williams, J.T. Duffy-Anderson, A.B. Hollowed, A.C. Haynie. 2018. Spatio-temporal models reveal subtle changes to demersal communities following the Exxon Valdez oil spill. *ICES Journal of Marine Science*, 75:287-297. [link](https://doi.org/10.1093/icesjms/fsx079)
 
