@@ -202,7 +202,7 @@ for(n in length(biblio):1) {
 # Teaching Experience
 
 *FISH 507: Applied Time Series Analysis*, University of Washington \hfill 2012 - present
-\newline Co-taught course with Eli Holmes and Mark Scheuerell [webpage](https://catalyst.uw.edu/workspace/fish203/35553/)
+\newline Co-taught course with Eli Holmes and Mark Scheuerell [webpage](https://nwfsc-timeseries.github.io/)
 
 *Ecological Society of America (ESA)* \hfill 2008 - 2011
 \newline Co-taught Analysis of Multivariate Time-Series Data Using State-Space Models, and Introduction to MARSS
@@ -262,9 +262,9 @@ for(n in length(biblio):1) {
 
 **2015-2017** Sean Anderson (Smith Fellow). Co-supervised with Trevor Branch
 
-**2017--** Ben Nelson (NWFSC). Co-supervised with Ole Shelton
+**2017-2019** Lewis Barnett (NWFSC) 
 
-**2017--** Lewis Barnett (NWFSC) 
+**2017--** Ben Nelson (NWFSC). Co-supervised with Ole Shelton
 
 # Supervised Graduate	Students or	Committees
 
