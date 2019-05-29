@@ -11,9 +11,9 @@ title                    : "Eric J. Ward"
 title_separator          : "-"
 name                     : &name "Eric J. Ward"
 description              : &description "Statistician, Northwest Fisheries Science Center"
-url                      : https://eric-ward.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ericward-noaa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "eric-ward.github.io"
+repository               : "ericward-noaa.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "eric-ward"
+  github           : "ericward-noaa"
   google_plus      :
   keybase          :
   instagram        :
