@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-0. Gonzalez, S., J.K. Horne, **E.J. Ward**. 2019. Does temporal variability limit standardized biological monitoring at wave and tidal energy sites? *International Marine Energy Journal*
+0. Gonzalez, S., J.K. Horne, **E.J. Ward**. 2019. Temporal variability in pelagic biomass distributions at wave and tidal sites and implications for standardization of biological monitoring *International Marine Energy Journal*
 
 0. Marshall, K.N., J. Duffy-Anderson, **E.J. Ward**, S.C. Anderson, M.E. Hunsicker, and B.C. Williams. 2019. Long-term trends in ichthyoplankton assemblage structure, biodiversity, and synchrony in the Gulf of Alaska and their relationships to ocean conditions. *Progress in Oceanography*, 170:134-145. [link](https://www.sciencedirect.com/science/article/pii/S0079661117303348?dgcid=rss_sd_all)
 
