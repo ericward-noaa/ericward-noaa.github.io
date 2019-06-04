@@ -6,7 +6,7 @@ author_profile: true
 
 0. Gonzalez, S., J.K. Horne, **E.J. Ward**. 2019. Temporal variability in pelagic biomass distributions at wave and tidal sites and implications for standardization of biological monitoring *International Marine Energy Journal*
 
-0. Beaudreau, A.H., E.J. Ward, R.E. Brenner, A.O. Shelton, J.T. Watson, J.C. Womack, S.C. Anderson, A.C. Haynie, K.N. Marshall, and B.C. Williams. 2019. Thirty years of change and the future of alaskan fisheries: shifts in fishing participation and diversification in response to environmental, regulatory, and economic pressures. *Fish and Fisheries*
+0. Beaudreau, A.H., **E.J. Ward**, R.E. Brenner, A.O. Shelton, J.T. Watson, J.C. Womack, S.C. Anderson, A.C. Haynie, K.N. Marshall, and B.C. Williams. 2019. Thirty years of change and the future of alaskan fisheries: shifts in fishing participation and diversification in response to environmental, regulatory, and economic pressures. *Fish and Fisheries*
 
 0. Marshall, K.N., J. Duffy-Anderson, **E.J. Ward**, S.C. Anderson, M.E. Hunsicker, and B.C. Williams. 2019. Long-term trends in ichthyoplankton assemblage structure, biodiversity, and synchrony in the Gulf of Alaska and their relationships to ocean conditions. *Progress in Oceanography*, 170:134-145. [link](https://www.sciencedirect.com/science/article/pii/S0079661117303348?dgcid=rss_sd_all)
 
