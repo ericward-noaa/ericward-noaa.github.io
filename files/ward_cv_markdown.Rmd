@@ -49,7 +49,7 @@ web: eric-ward.github.io
 
 # Journal Articles (peer - reviewed)
 
-```{r echo = FALSE, results='asis', comment=NA}
+```{r echo = FALSE, results='asis', comment=NA, warning=FALSE, message=FALSE}
 library(RefManageR)
 BibOptions(restore.defaults = TRUE)
 biblio = ReadBib(file = "myCV.bib")
