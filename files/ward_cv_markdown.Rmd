@@ -166,11 +166,15 @@ for(n in length(biblio):1) {
 
 # Technical Reports
 
->20. Eguchi, T., C. Fahy, J. Jannot, K. Somers, and **E. Ward**. 2019. 2018 Leatherback sea turtle estimated bycatch reporting requirements as set out in the NMFS Biological Opinion for the continuing authorization of the Pacific Coast groundfish fisheries. National Marine Fisheries Service, SWFSC, La Jolla, CA 92039. [link](https://www.pcouncil.org/wp-content/uploads/2019/05/I4a_NMFS_Rpt5_ELEC_ONLY_DRAFT-Leatherback_Turtle_rpt_JUNE2019BB.pdf)
+>22. Eguchi, T., C. Fahy, J. Jannot, K. Somers, and **E. Ward**. 2019. 2018 Leatherback sea turtle estimated bycatch reporting requirements as set out in the NMFS Biological Opinion for the continuing authorization of the Pacific Coast groundfish fisheries. National Marine Fisheries Service, SWFSC, La Jolla, CA 92039. [link](https://www.pcouncil.org/wp-content/uploads/2019/05/I4a_NMFS_Rpt5_ELEC_ONLY_DRAFT-Leatherback_Turtle_rpt_JUNE2019BB.pdf)
 
->19. Good, T. P., **E. Ward**, J. Jannot, R. Shama, and J. McVeigh. 2019. Observed and Estimated Bycatch of Short-tailed Albatross in U.S. West Coast Groundfish Fisheries 2002-2017. National Marine Fisheries Service, NWFSC, 2725 Montlake Blvd E., Seattle, WA 98112. [link](https://www.pcouncil.org/wp-content/uploads/2019/05/I4a_NMFS_RPT6_ELEC_ONLY_DRAFT_STAL_bycatch_rpt_JUNE2019BB.pdf)
+>21. Good, T. P., **E. Ward**, J. Jannot, R. Shama, and J. McVeigh. 2019. Observed and Estimated Bycatch of Short-tailed Albatross in U.S. West Coast Groundfish Fisheries 2002-2017. National Marine Fisheries Service, NWFSC, 2725 Montlake Blvd E., Seattle, WA 98112. [link](https://www.pcouncil.org/wp-content/uploads/2019/05/I4a_NMFS_RPT6_ELEC_ONLY_DRAFT_STAL_bycatch_rpt_JUNE2019BB.pdf)
 
->18. Harvey, C.J., N. Garfield, G.D. Williams, N. Tolimieri, E.L. Hazen, I.D. Schroeder, K.S. Andrews, C. Barceló, K. Barnas, S.J. Bograd, R.D. Brodeur, B.J. Burke, J.M. Cope, L. deWitt, J.C. Field, J.L. Fisher, T.P. Good, C.M. Greene, D.S. Holland, M.E. Hunsicker, M. Jacox, S. Kasperski, S.J. Kim, A. Leising, S.R. Melin, C.A. Morgan, B. Muhling, S.H. Munsch, K. Norman, W.T. Peterson, M.R. Poe, J.F. Samhouri, W.J. Sydeman, J.Thayer, A.R. Thompson, A. Varney, B.K. Wells, T.H. Williams, J.E. Zamon, D. Lawson, S.C. Anderson, J. Gao, M.A. Litzow, S. McClatchie, **E.J. Ward**, S. Zador. Ecosystem status report of the California Current for 2018: a summary of ecosystem indicators compiled by the California Current Integrated Ecosystem Assessment team (CCIEA). U.S. Department of Commerce, NOAA. NOAA Technical Memorandum NMFS-NWFSC-145. [link](https://doi.org/10.25923/mvhf-yk36)
+>20. Harvey, C.J., N. Garfield, G.D. Williams, N. Tolimieri, E.L. Hazen, I.D. Schroeder, K.S. Andrews, C. Barceló, K. Barnas, S.J. Bograd, R.D. Brodeur, B.J. Burke, J.M. Cope, L. deWitt, J.C. Field, J.L. Fisher, T.P. Good, C.M. Greene, D.S. Holland, M.E. Hunsicker, M. Jacox, S. Kasperski, S.J. Kim, A. Leising, S.R. Melin, C.A. Morgan, B. Muhling, S.H. Munsch, K. Norman, W.T. Peterson, M.R. Poe, J.F. Samhouri, W.J. Sydeman, J.Thayer, A.R. Thompson, A. Varney, B.K. Wells, T.H. Williams, J.E. Zamon, D. Lawson, S.C. Anderson, J. Gao, M.A. Litzow, S. McClatchie, **E.J. Ward**, S. Zador. Ecosystem status report of the California Current for 2018: a summary of ecosystem indicators compiled by the California Current Integrated Ecosystem Assessment team (CCIEA). U.S. Department of Commerce, NOAA. NOAA Technical Memorandum NMFS-NWFSC-145. [link](https://doi.org/10.25923/mvhf-yk36)
+
+>19. Denton, K., M. McHenry, R. Moses, **E.J. Ward**, M. Liermann, O. Stefankiv, W. Wells and G. Pess. 2017 Elwha River Steelhead Escapement Estimate Based on DIDSON/ARIS Multi-Beam SONAR Data. Lower Elwha Tribe, Port Angeles, Washington.
+
+>18. Denton, K., M. McHenry, R. Moses, **E.J. Ward**, M. Liermann, O. Stefankiv, W. Wells and G. Pess. 2017 Elwha River Chinook Escapement Estimate Based on DIDSON/ARIS Multi-Beam SONAR Data. Lower Elwha Tribe, Port Angeles, Washington.
 
 >17. Ferguson, L., M. Srinivasan, E. Oleson, S. Hayes, S.K. Brown, R. Angliss, J. Carretta, E. Holmes, **E.J. Ward**, J. Kocik, K. Mullin, R. Dean, and J. Davis (eds.). 2017. Proceedings of the First National Protected Species Assessment Workshop. U.S. Dept. of Commer., NOAA. NOAA Technical Memorandum NMFS-F/SPO-172, 92 p. [link](http://spo.nmfs.noaa.gov/sites/default/files/TMSPO172.pdf)
 
@@ -184,17 +188,17 @@ for(n in length(biblio):1) {
 
 >12. Lee, Y.-W., R. Gustafson, J. Jannot, J. McVeigh, N. Riley, K. Somers, V. Tuttle, S. Wang, and **E. Ward**. 2017. Observed and Estimated Bycatch of Green Sturgeon in 2002–2015 US West Coast Groundfish Fisheries. National Marine Fisheries Service, NWFSC, 2725 Montlake Blvd E., Seattle, WA 98112. [link](https://www.pcouncil.org/wp-content/uploads/2017/03/F5a_NMFS_Rpt5_ElectricOnly_Green_Sturgeon_Bycatch_rpt_2017_Apr2017BB.pdf)
 
->11. Denton, K., M. McHenry, R. Moses, **E.J. Ward**, M. Liermann, O. Stefankiv, W. Wells and G. Pess. 2016 Elwha River Steelhead Escapement Estimate Based on DIDSON/ARIS Multi-Beam SONAR Data.
+>11. Denton, K., M. McHenry, R. Moses, **E.J. Ward**, M. Liermann, O. Stefankiv, W. Wells and G. Pess. 2016 Elwha River Steelhead Escapement Estimate Based on DIDSON/ARIS Multi-Beam SONAR Data. Lower Elwha Tribe, Port Angeles, Washington.
 
->10. Denton, K., M. McHenry, R. Moses, **E.J. Ward**, M. Liermann, O. Stefankiv, W. Wells and G. Pess. 2016 Elwha River Chinook Escapement Estimate Based on DIDSON/ARIS Multi-Beam SONAR Data.
+>10. Denton, K., M. McHenry, R. Moses, **E.J. Ward**, M. Liermann, O. Stefankiv, W. Wells and G. Pess. 2016 Elwha River Chinook Escapement Estimate Based on DIDSON/ARIS Multi-Beam SONAR Data. Lower Elwha Tribe, Port Angeles, Washington.
 
 >9. Gustafson, R.G., L. Weitkamp, Y.W. Lee, **E.J. Ward**, K. Somers, V. Tuttle, and J. Jannot. 2016. Status Review Update of Eulachon (Thaleichthys pacificus) Listed under the Endangered Species Act: Southern Distinct Population Segment. [link](http://www.westcoast.fisheries.noaa.gov/publications/status_reviews/other_species/eulachon/eulachon_2016_status_review_update.pdf)
 
 >8. Gerrodette, T., **E.J. Ward**, R.L. Taylor, L.K. Schwarz, T. Eguchi, P.R. Wade, and G.K. Himes-Boor. 2016. Daniel Goodman’s empirical approach to Bayesian statistics. Pre-print at PeerJ [link](https://peerj.com/preprints/1755/)
 
->7. Denton, K., M. McHenry, R. Moses, **E.J. Ward**, M. Liermann, O. Stefankiv, W. Wells and G. Pess. 2015 Elwha River Steelhead Escapement Estimate Based on DIDSON/ARIS Multi-Beam SONAR Data.
+>7. Denton, K., M. McHenry, R. Moses, **E.J. Ward**, M. Liermann, O. Stefankiv, W. Wells and G. Pess. 2015 Elwha River Steelhead Escapement Estimate Based on DIDSON/ARIS Multi-Beam SONAR Data. Lower Elwha Tribe, Port Angeles, Washington.
 
->6. Denton, K., M. McHenry, R. Moses, **E.J. Ward**, M. Liermann, O. Stefankiv, W. Wells and G. Pess. 2015 Elwha River Chinook Escapement Estimate Based on DIDSON/ARIS Multi-Beam SONAR Data.
+>6. Denton, K., M. McHenry, R. Moses, **E.J. Ward**, M. Liermann, O. Stefankiv, W. Wells and G. Pess. 2015 Elwha River Chinook Escapement Estimate Based on DIDSON/ARIS Multi-Beam SONAR Data. Lower Elwha Tribe, Port Angeles, Washington.
 
 >8. Eguchi, T., R. Bjorkland, C. Fahy, J. Jannot, T. Mitchell, K. Somers, **E. Ward**, B. Whiteside. 2015. Reporting requirements as set out in the NMFS Biological Opinion Leatherback sea turtles for the continuing authorization of the Pacific Coast groundfish fisheries. National Marine Fisheries Service, SWFSC, La Jolla, CA 92039. [link](http://www.pcouncil.org/wp-content/uploads/2015/06/D4_Sup_Att2_Turtle_Rpt_May2015Final_E-ONLY_JUN2015BB.pdf)
 
@@ -202,9 +206,9 @@ for(n in length(biblio):1) {
 
 >6. Lee, Y.-W., R. Gustafson, J. Jannot, J. McVeigh, N. Riley, K. Somers, V. Tuttle, S. Wang, **E. Ward**. 2015.  The next link/button will exit from NWFSC web site Observed and Estimated Bycatch of Green Sturgeon in 2002–2013 US West Coast Groundfish Fisheries. National Marine Fisheries Service, NWFSC, 2725 Montlake Blvd E., Seattle, WA 98112. [link](http://www.pcouncil.org/wp-content/uploads/2015/06/D4_Sup_Att4_GreenSturgeonBiOpBycatchRpt_E-ONLY_JUN2015BB.pdf)
 
->5. Denton, K., M. McHenry, R. Moses, **E.J. Ward**, M. Liermann, O. Stefankiv, W. Wells and G. Pess. 2014 Elwha River Steelhead Escapement Estimate Based on DIDSON/ARIS Multi-Beam SONAR Data.
+>5. Denton, K., M. McHenry, R. Moses, **E.J. Ward**, M. Liermann, O. Stefankiv, W. Wells and G. Pess. 2014 Elwha River Steelhead Escapement Estimate Based on DIDSON/ARIS Multi-Beam SONAR Data. Lower Elwha Tribe, Port Angeles, Washington.
 
->4. Denton, K., M. McHenry, R. Moses, **E.J. Ward**, M. Liermann, O. Stefankiv, W. Wells and G. Pess. 2014 Elwha River Chinook Escapement Estimate Based on DIDSON/ARIS Multi-Beam SONAR Data.
+>4. Denton, K., M. McHenry, R. Moses, **E.J. Ward**, M. Liermann, O. Stefankiv, W. Wells and G. Pess. 2014 Elwha River Chinook Escapement Estimate Based on DIDSON/ARIS Multi-Beam SONAR Data. Lower Elwha Tribe, Port Angeles, Washington.
 
 >3. **E.J. Ward**, M.J. Ford, R.G. Kope, J.K.B. Ford, A. Velez-Espino, C.K. Parken, L. LaVoy, M.B. Hanson, K.C. Balcomb. Estimating the impacts of Chinook salmon abundance and prey removal by ocean fishing on Southern Resident killer whale population dynamics. 2013. U.S. Dept. Commer., NOAA Tech. Memo. NMFS-NWFSC-123, 71 p. [link](https://www.nwfsc.noaa.gov/assets/25/4647_08132013_113012_ImpactsOnSRKWsTM123WebFinal.pdf)
 
