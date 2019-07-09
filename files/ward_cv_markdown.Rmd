@@ -14,7 +14,7 @@ fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 11pt
 geometry: margin=1in
-jobtitle:
+jobtitle: 
 keywords: R Markdown, academic CV, template
 linkcolor: blue
 csl: journal-of-applied-ecology.csl
@@ -290,15 +290,15 @@ for(n in length(biblio):1) {
 
 # Supervised Graduate	Students or	Committees
 
-**2017--** Elizabeth Ng (T. Essington), SAFS, University of Washington
+**2017--** Elizabeth Ng (T. Essington), SAFS, University of Washington (NMFS Population Dynamics Fellowship)
 
-**2017--** Natalie Lowell (L. Hauser), SAFS, University of Washington
+**2017--** Natalie Lowell (L. Hauser), SAFS, University of Washington (NMFS Population Dynamics Fellowship)
 
 **2017--** Megan Feddern (G. Holtgrieve), SAFS, University of Washington
 
 **2012-2018** Pam Moriarty (T. Essington), SAFS, University of Washington
 
-**2013-2016** Brandon Chasco (S. Heppell) Oregon State University
+**2013-2016** Brandon Chasco (S. Heppell) Oregon State University (NMFS Population Dynamics Fellowship)
 
 **2014-2015** Brian Stock (B. Semmens) SIO, with Tomo Eguchi
 
