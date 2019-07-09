@@ -14,7 +14,7 @@ fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 11pt
 geometry: margin=1in
-jobtitle: Statistician & Research Biologist
+jobtitle:
 keywords: R Markdown, academic CV, template
 linkcolor: blue
 csl: journal-of-applied-ecology.csl
