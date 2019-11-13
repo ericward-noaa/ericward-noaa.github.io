@@ -290,13 +290,15 @@ for(n in length(biblio):1) {
 
 **2017--** Ben Nelson (NWFSC). Co-supervised with Ole Shelton
 
-# Supervised Graduate	Students or	Committees
+**2019--** Christian Commander (NWFSC) Co-supervised with Lewis Barnett
 
-**2017--** Elizabeth Ng (T. Essington), SAFS, University of Washington (NMFS Population Dynamics Fellowship)
+# Supervised Graduate	Students or	Committees
 
 **2017--** Natalie Lowell (L. Hauser), SAFS, University of Washington (NMFS Population Dynamics Fellowship)
 
 **2017--** Megan Feddern (G. Holtgrieve), SAFS, University of Washington
+
+**2017-2020** Elizabeth Ng (T. Essington), SAFS, University of Washington (NMFS Population Dynamics Fellowship)
 
 **2012-2018** Pam Moriarty (T. Essington), SAFS, University of Washington
 
