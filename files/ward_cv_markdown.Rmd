@@ -22,7 +22,7 @@ phone: 206-302-1745
 address: Northwest Fisheries Science Center · 2725 Montlake Blvd E · Seattle, WA
 updated: no
 urlcolor: blue
-web: eric-ward.github.io
+web: ericward-noaa.github.io
 ---
 
 # Education
@@ -180,7 +180,7 @@ for(n in length(biblio):1) {
 
 >17. Ferguson, L., M. Srinivasan, E. Oleson, S. Hayes, S.K. Brown, R. Angliss, J. Carretta, E. Holmes, **E.J. Ward**, J. Kocik, K. Mullin, R. Dean, and J. Davis (eds.). 2017. Proceedings of the First National Protected Species Assessment Workshop. U.S. Dept. of Commer., NOAA. NOAA Technical Memorandum NMFS-F/SPO-172, 92 p. [link](http://spo.nmfs.noaa.gov/sites/default/files/TMSPO172.pdf)
 
->16. Hanson, M.B., **E.J. Ward**, C.K. Emmons, M.M. Holt, and D.M. Holzer. 2017. Assessing the movements and occurrence of Southern Resident Killer Whales relative to the U.S. Navy’s Northwest Training Range Complex in the Pacific Northwest. Prepared for: U.S. Navy, U.S. Pacific Fleet, Pearl Harbor, HI. Prepared by: National Oceanic and Atmospheric Administration, Northwest Fisheries Science Center under MIPR N00070-15-MP-4C363.
+>16. Hanson, M.B., **E.J. Ward**, C.K. Emmons, M.M. Holt, and D.M. Holzer. 2017. Assessing the movements and occurrence of Southern Resident Killer Whales relative to the U.S. Navy’s Northwest Training Range Complex in the Pacific Northwest. Prepared for: U.S. Navy, U.S. Pacific Fleet, Pearl Harbor, HI. Prepared by: National Oceanic and Atmospheric Administration, Northwest Fisheries Science Center under MIPR N00070-15-MP-4C363.[link](https://www.navymarinespeciesmonitoring.us/files/9315/3186/7492/Hanson_et_al_2018_Modeling_Occurrence_of_SRKW_in_NWTRC.pdf)
 
 >15. Eguchi, T., C. Fahy, J. Jannot, K. Somers, and **E. Ward**. 2017. 2016 Leatherback sea turtle estimated bycatch reporting requirements as set out in the NMFS Biological Opinion for the continuing authorization of the Pacific Coast groundfish fisheries. National Marine Fisheries Service, SWFSC, La Jolla, CA 92039. [link](https://www.pcouncil.org/wp-content/uploads/2017/03/F5a_NMFS_Rpt3_ElectricOnly_Leatherback_Turtle_rpt_2017_Apr2017BB.pdf)
 
