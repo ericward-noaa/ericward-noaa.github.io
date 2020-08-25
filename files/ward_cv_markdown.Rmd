@@ -166,7 +166,9 @@ for(n in length(biblio):1) {
 
 # Technical Reports
 
->24. Jefferson, T.A., M.A. Smultea, **E.J. Ward**, and B. Berejekian. Harbor seal (Phoca vitulina richardii) stock size in the inland waters of Washington state: A novel approach. Puget Sound Partnership Scientific Research, Salish Sea Marine Survival Project. 2020. 
+>25. ICES. 2020. ICES Workshop on unavoidable survey effort reduction (WKUSER). ICES Scientific Reports. 2:72. 92pp. http://doi.org/10.17895/ices.pub.7453
+
+>24. Jefferson, T.A., M.A. Smultea, **E.J. Ward**, and B. Berejekian. 2020. Harbor seal (Phoca vitulina richardii) stock size in the inland waters of Washington state: A novel approach. Puget Sound Partnership Scientific Research, Salish Sea Marine Survival Project. 
 
 >23. Srinivasan, M., S.K. Brown, E. Markowitz, M. Soldevilla, E. Patterson, K. Forney, K. Murray, E. Ward, J.M. Ver Hoef, J. Redfern, and T. Eguchi. 2019. Proceedings of the 2nd National Protected Species Assessment Workshop. U.S. Dept. of Commer., NOAA. NOAA Technical Memorandum NMFS-F/SPO-198, 52 p. [link](https://spo.nmfs.noaa.gov/sites/default/files/TMSPO198.pdf)
 
