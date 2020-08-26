@@ -166,7 +166,11 @@ for(n in length(biblio):1) {
 
 # Technical Reports
 
->25. ICES. 2020. ICES Workshop on unavoidable survey effort reduction (WKUSER). ICES Scientific Reports. 2:72. 92pp. http://doi.org/10.17895/ices.pub.7453
+>27. ICES. 2020. ICES Workshop on unavoidable survey effort reduction (WKUSER). ICES Scientific Reports. 2:72. 92pp. http://doi.org/10.17895/ices.pub.7453
+
+>26. Pacific Fishery Management Council Salmon Fishery Management Plan Impacts to Southern Resident Killer Whales: Alternatives and Recommendations. 2020. Ad-Hoc Southern Resident Killer Whale Workgroup, 20 pp. [link](https://www.pcouncil.org/documents/2020/08/h-3-a-srkw-workgroup-report-1-pacific-fishery-management-council-salmon-fishery-management-plan-impacts-to-southern-resident-killer-whales-draft-range-of-alternatives-and-recommendations.pdf/)
+
+>25. Pacific Fishery Management Council Salmon Fishery Management Plan Impacts to Southern Resident Killer Whales: Risk Assessment. 2020. Ad-Hoc Southern Resident Killer Whale Workgroup, 165 pp. [link](https://www.pcouncil.org/documents/2020/05/e-2-srkw-workgroup-report-1-pacific-fishery-management-council-salmon-fishery-management-plan-impacts-to-southern-resident-killer-whales-risk-assessment-electronic-only.pdf/).
 
 >24. Jefferson, T.A., M.A. Smultea, **E.J. Ward**, and B. Berejekian. 2020. Harbor seal (Phoca vitulina richardii) stock size in the inland waters of Washington state: A novel approach. Puget Sound Partnership Scientific Research, Salish Sea Marine Survival Project. 
 
