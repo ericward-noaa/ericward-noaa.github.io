@@ -166,15 +166,23 @@ for(n in length(biblio):1) {
 
 # Technical Reports
 
->27. ICES. 2020. ICES Workshop on unavoidable survey effort reduction (WKUSER). ICES Scientific Reports. 2:72. 92pp. http://doi.org/10.17895/ices.pub.7453
+>31. ICES. 2020. ICES Workshop on unavoidable survey effort reduction (WKUSER). ICES Scientific Reports. 2:72. 92pp. http://doi.org/10.17895/ices.pub.7453
 
->26. Pacific Fishery Management Council Salmon Fishery Management Plan Impacts to Southern Resident Killer Whales: Alternatives and Recommendations. 2020. Ad-Hoc Southern Resident Killer Whale Workgroup, 20 pp. [link](https://www.pcouncil.org/documents/2020/08/h-3-a-srkw-workgroup-report-1-pacific-fishery-management-council-salmon-fishery-management-plan-impacts-to-southern-resident-killer-whales-draft-range-of-alternatives-and-recommendations.pdf/)
+>30. Pacific Fishery Management Council Salmon Fishery Management Plan Impacts to Southern Resident Killer Whales: Alternatives and Recommendations. 2020. Ad-Hoc Southern Resident Killer Whale Workgroup, 20 pp. [link](https://www.pcouncil.org/documents/2020/08/h-3-a-srkw-workgroup-report-1-pacific-fishery-management-council-salmon-fishery-management-plan-impacts-to-southern-resident-killer-whales-draft-range-of-alternatives-and-recommendations.pdf/)
 
->25. Pacific Fishery Management Council Salmon Fishery Management Plan Impacts to Southern Resident Killer Whales: Risk Assessment. 2020. Ad-Hoc Southern Resident Killer Whale Workgroup, 165 pp. [link](https://www.pcouncil.org/documents/2020/05/e-2-srkw-workgroup-report-1-pacific-fishery-management-council-salmon-fishery-management-plan-impacts-to-southern-resident-killer-whales-risk-assessment-electronic-only.pdf/).
+>29. Pacific Fishery Management Council Salmon Fishery Management Plan Impacts to Southern Resident Killer Whales: Risk Assessment. 2020. Ad-Hoc Southern Resident Killer Whale Workgroup, 165 pp. [link](https://www.pcouncil.org/documents/2020/05/e-2-srkw-workgroup-report-1-pacific-fishery-management-council-salmon-fishery-management-plan-impacts-to-southern-resident-killer-whales-risk-assessment-electronic-only.pdf/).
 
->24. Jefferson, T.A., M.A. Smultea, **E.J. Ward**, and B. Berejekian. 2020. Harbor seal (Phoca vitulina richardii) stock size in the inland waters of Washington state: A novel approach. Puget Sound Partnership Scientific Research, Salish Sea Marine Survival Project. 
+>28. Jefferson, T.A., M.A. Smultea, **E.J. Ward**, and B. Berejekian. 2020. Harbor seal (Phoca vitulina richardii) stock size in the inland waters of Washington state: A novel approach. Puget Sound Partnership Scientific Research, Salish Sea Marine Survival Project. 
 
->23. Srinivasan, M., S.K. Brown, E. Markowitz, M. Soldevilla, E. Patterson, K. Forney, K. Murray, E. Ward, J.M. Ver Hoef, J. Redfern, and T. Eguchi. 2019. Proceedings of the 2nd National Protected Species Assessment Workshop. U.S. Dept. of Commer., NOAA. NOAA Technical Memorandum NMFS-F/SPO-198, 52 p. [link](https://spo.nmfs.noaa.gov/sites/default/files/TMSPO198.pdf)
+>27. Denton, K., M. McHenry, R. Moses, **E.J. Ward**, M. Liermann, O. Stefankiv, W. Wells and G. Pess. 2019 Elwha River Steelhead Escapement Estimate Based on DIDSON/ARIS Multi-Beam SONAR Data. Lower Elwha Tribe, Port Angeles, Washington.
+
+>26. Denton, K., M. McHenry, R. Moses, **E.J. Ward**, M. Liermann, O. Stefankiv, W. Wells and G. Pess. 2019 Elwha River Chinook Escapement Estimate Based on DIDSON/ARIS Multi-Beam SONAR Data. Lower Elwha Tribe, Port Angeles, Washington.
+
+>25. Srinivasan, M., S.K. Brown, E. Markowitz, M. Soldevilla, E. Patterson, K. Forney, K. Murray, E. Ward, J.M. Ver Hoef, J. Redfern, and T. Eguchi. 2019. Proceedings of the 2nd National Protected Species Assessment Workshop. U.S. Dept. of Commer., NOAA. NOAA Technical Memorandum NMFS-F/SPO-198, 52 p. [link](https://spo.nmfs.noaa.gov/sites/default/files/TMSPO198.pdf)
+
+>24. Denton, K., M. McHenry, R. Moses, **E.J. Ward**, M. Liermann, O. Stefankiv, W. Wells and G. Pess. 2018 Elwha River Steelhead Escapement Estimate Based on DIDSON/ARIS Multi-Beam SONAR Data. Lower Elwha Tribe, Port Angeles, Washington.
+
+>23. Denton, K., M. McHenry, R. Moses, **E.J. Ward**, M. Liermann, O. Stefankiv, W. Wells and G. Pess. 2018 Elwha River Chinook Escapement Estimate Based on DIDSON/ARIS Multi-Beam SONAR Data. Lower Elwha Tribe, Port Angeles, Washington.
 
 >22. Eguchi, T., C. Fahy, J. Jannot, K. Somers, and **E. Ward**. 2019. 2018 Leatherback sea turtle estimated bycatch reporting requirements as set out in the NMFS Biological Opinion for the continuing authorization of the Pacific Coast groundfish fisheries. National Marine Fisheries Service, SWFSC, La Jolla, CA 92039. [link](https://www.pcouncil.org/wp-content/uploads/2019/05/I4a_NMFS_Rpt5_ELEC_ONLY_DRAFT-Leatherback_Turtle_rpt_JUNE2019BB.pdf)
 
@@ -302,7 +310,7 @@ for(n in length(biblio):1) {
 
 # Supervised Graduate	Students or	Committees
 
-**2019--** Sam May (K. Naish), SAFS, University of Washington
+**2019--** Sam May (K. Naish), SAFS, University of Washington (NMFS Population Dynamics Fellowship)
 
 **2017--** Natalie Lowell (L. Hauser), SAFS, University of Washington (NMFS Population Dynamics Fellowship)
 
