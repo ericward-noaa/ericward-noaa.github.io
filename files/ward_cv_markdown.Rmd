@@ -166,6 +166,8 @@ for(n in length(biblio):1) {
 
 # Technical Reports
 
+>32. **Ward, E.J.** and W. Satterthwaite. 2020. Power analyses for Southern Resident killer whale demographic modeling. Report to West coast regional office, July 2020.
+
 >31. ICES. 2020. ICES Workshop on unavoidable survey effort reduction (WKUSER). ICES Scientific Reports. 2:72. 92pp. http://doi.org/10.17895/ices.pub.7453
 
 >30. Pacific Fishery Management Council Salmon Fishery Management Plan Impacts to Southern Resident Killer Whales: Alternatives and Recommendations. 2020. Ad-Hoc Southern Resident Killer Whale Workgroup, 20 pp. [link](https://www.pcouncil.org/documents/2020/08/h-3-a-srkw-workgroup-report-1-pacific-fishery-management-council-salmon-fishery-management-plan-impacts-to-southern-resident-killer-whales-draft-range-of-alternatives-and-recommendations.pdf/)
