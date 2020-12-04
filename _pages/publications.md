@@ -160,7 +160,9 @@ food-web studies. *Canadian Journal of Zoology*, 92: 823-835. [link](http://www.
 
 0. Warren, D.R., M.M. Mineau, **E.J. Ward**, and C.E. Kraft. 2010. Relating fish biomass to habitat and chemistry in headwater streams of the northeastern United States. *Environmental Biology of Fishes*, 88: 51-62. [link](http://link.springer.com/article/10.1007%2Fs10641-010-9617-x)
 
-0. **Ward, E.J.**, H. Chirrakal, M. González-Suárez, D. Aurioles-Gamboa, E.E. Holmes, L. Gerber. 2010. Applying Multivariate state-space models to detect spatial clustering of California sea lions in the Gulf of California, Mexico. *Journal of Applied Ecology*, 47: 47-56. *Recommended by Faculty of 1000 Biology* [link](http://onlinelibrary.wiley.com/store/10.1111/j.1365-2664.2009.01745.x/asset/j.1365-2664.2009.01745.x.pdf?v=1&t=iq132i5l&s=c445f6b7a3f6758b10909a2fb46a9acce9f0eb71)
+0. **Ward, E.J.**, H. Chirrakal, M. González-Suárez, D. Aurioles-Gamboa, E.E. Holmes, L. Gerber. 2010. Inferring spatial structure from time-series data: using
+multivariate state-space models to detect metapopulation structure of California
+sea lions in the Gulf of California, Mexico. *Journal of Applied Ecology*, 47: 47-56. *Recommended by Faculty of 1000 Biology* [link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2664.2009.01745.x)
 
 0. Semmens, B.X., **E.J. Ward**, J.W. Moore, and C.T. Darimont. 2009. Quantifying inter- and intra-population niche variability using hierarchical Bayesian stable isotope mixing models. *PLoS ONE*, 4(7): e6187. *joint 1st authorship* [link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006187)
 
