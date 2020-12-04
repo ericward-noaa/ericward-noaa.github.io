@@ -4,6 +4,28 @@ permalink: /publications/
 author_profile: true
 ---
 
+0. Litzow, M.A., M.E. Hunsicker, N.A. Bond, B.J. Burke, C.J. Cunningham, J.L. Gosselin, E.L. Norton, **E.J. Ward**, and S.G. Zador. 2020. The changing physical
+and ecological meanings of north pacific ocean climate indices. Proceedings of the National Academy of Sciences, [link](https://www.pnas.org/content/117/14/7665)
+
+0. Chasco, B., J.T. Thorson, S. Heppell, L. Avens, J. Braun-McNeill, A.B. Bolten, K.A. Bjorndal, and **E.J. Ward**. 2020. Estimating growth and ages for species
+with incomplete ageing histories: a case study for loggerhead sea turtle (Caretta caretta) using an integrated mixed-effect model. Marine Ecology Progress Series, 636:221-234 [link](https://www.int-res.com/abstracts/meps/v636/p221-234/)
+
+0. Barnett, L., **E.J. Ward**, J.E. Jannot, and A.O. Shelton. 2019. Dynamic spatial heterogeneity reveals interdependence of marine faunal density and fishery
+removals. Ecological Indicators, 107 [link](https://www.sciencedirect.com/science/article/abs/pii/S1470160X19305771?via%3Dihub)
+
+0. Ohlberger, J., D.E. Schindler, **E.J. Ward**, T.E. Walsworth, and T.E. Essington. 2019. Resurgence of an apex marine predator and the decline in prey body size. Proceedings of the National Academy of Sciences, 116:26682–26689 [link](https://www.pnas.org/content/116/52/26682)
+
+0. Tennessen, J.B., M.M. Holt, **E.J. Ward**, M.B. Hanson, C.K. Emmons, D.A. Giles, and J.T. Hogan. 2019. Hidden Markov models reveal temporal patterns and sex
+differences in killer whale behavior. Scientific Reports, 9:14951 [link](https://www.nature.com/articles/s41598-019-50942-2)
+
+0. **Ward, E.J.**, S.C. Anderson, L.A. Damiano, M.E. Hunsicker, and M.A. Litzow. 2019. Modeling regimes with extremes: the bayesdfa package for identifying and
+forecasting common trends and anomalies in multivariate time-series data. The R Journal, 11:46-55 [link](https://journal.r-project.org/archive/2019/RJ-2019-007/index.html)
+
+0. Deacy, W.W., W.B. Leacock, **E.J. Ward**, and J.B. Armstrong. 2019. Aerial surveys cause large but ephemeral decreases in bear presence at salmon streams in Kodiak, Alaska. PLOS ONE, 14:1-17 [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222085)
+
+0. Nelson, B.W., A.O. Shelton, J.H. Anderson, M.J. Ford, and **E.J. Ward** 2019. Ecological implications of changing hatchery practices for Chinook salmon in the
+Salish Sea. Ecosphere, 10:e02922 [link](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.2922)
+
 0. Gonzalez, S., J.K. Horne, **E.J. Ward**. 2019. Temporal variability in pelagic biomass distributions at wave and tidal sites and implications for standardization of biological monitoring *International Marine Energy Journal*
 
 0. Beaudreau, A.H., **E.J. Ward**, R.E. Brenner, A.O. Shelton, J.T. Watson, J.C. Womack, S.C. Anderson, A.C. Haynie, K.N. Marshall, and B.C. Williams. 2019. Thirty years of change and the future of alaskan fisheries: shifts in fishing participation and diversification in response to environmental, regulatory, and economic pressures. *Fish and Fisheries*
