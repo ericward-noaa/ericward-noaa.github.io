@@ -243,6 +243,10 @@ for(n in length(biblio):1) {
 
 # External Funding
 
+**2021-2023** C.E. Jordan, M.E. Hunsicker, and E.J. Ward. *Developing a dashboard for salmon data and ecosystem indicators*. NOAA Protected Species Toolbox, $150K  
+
+**2019-2021** E.J. Ward, A.O. Shelton, R. Sharma, B. Nelson. *A spatially explicit model for evaluating threats to coho salmon in freshwater and marine life stages in the Northeast Pacific Ocean*. Pacific Salmon Commission, $229K  
+
 **2019-2021** D. Finnoff, E.J. Ward, T. Miller, T. Schwoerer, M. Horning, D. Dugan. *Thresholds in a changing ocean environment: bioeconomic implications to inform adaptation decisions for Alaska’s salmon fisheries.* NOAA Ocean Acidification Program, $1,050,000.
 
 **2018-2020** A.O. Shelton, J. Watson, C. Cunningham, E.J. Ward, A. Grey, M.J. Ford, K. Sommers. *Integrating Chinook Catches from Directed Fisheries and Trawl Bycatch to Improve Distribution Information for Bycatch Avoidance and Impacts On Predators in a Changing Environment.* NOAA Protected Species, $200K. 
