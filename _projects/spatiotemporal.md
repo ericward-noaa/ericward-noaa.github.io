@@ -1,6 +1,6 @@
 ---
 permalink: /projects/spatiotemporal
-collection: projecs
+collection: projects
 ---
 
 Time series

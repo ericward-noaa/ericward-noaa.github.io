@@ -1,6 +1,6 @@
 ---
 permalink: /projects/timeseries
-collection: projecs
+collection: projects
 ---
 
 Time series
