@@ -243,6 +243,10 @@ for(n in length(biblio):1) {
 
 # External Funding
 
+**2022-2023** Non-stationary relationships between climate and fisheries in the California Current. E.J. Ward, M. Hunsicker, B. Burke, W. Satterthwaite, M. Jacox, M. Litzow, M. Malick. NWFSC grant, $118K
+
+**2022-2024** T. Essington, M.E. Hunsicker, S.C. Anderson, *E.J. Ward*, J.T. Thorson, S. Siedlecki, L. Barnett, R. Forrest. *Climate change, distribution shifts, and choke species: A threat assessment to advance fishery ecosystem planning*. Washington Sea Grant, $250K  
+
 **2021-2023** C.E. Jordan, M.E. Hunsicker, and E.J. Ward. *Developing a dashboard for salmon data and ecosystem indicators*. NOAA Protected Species Toolbox, $150K  
 
 **2019-2021** E.J. Ward, A.O. Shelton, R. Sharma, B. Nelson. *A spatially explicit model for evaluating threats to coho salmon in freshwater and marine life stages in the Northeast Pacific Ocean*. Pacific Salmon Commission, $229K  
@@ -311,7 +315,7 @@ for(n in length(biblio):1) {
 
 **2017-2021** Natalie Lowell (L. Hauser), SAFS, University of Washington (NMFS Population Dynamics Fellowship)
 
-**2017--** Megan Feddern (G. Holtgrieve), SAFS, University of Washington
+**2017-2021** Megan Feddern (G. Holtgrieve), SAFS, University of Washington
 
 **2017-2020** Elizabeth Ng (T. Essington), SAFS, University of Washington (NMFS Population Dynamics Fellowship)
 
@@ -327,7 +331,7 @@ for(n in length(biblio):1) {
 
 **Subject Editor, Ecological Applications** \hfill 2013 - present  
   
-**Puget Sound Seabird Survey** \hfill 2005-present
+**Puget Sound Seabird Survey** \hfill 2005-2021
 \newline Developed survey methodology for Puget Sound’s first land-based citizen science seabird survey and oversaw data analysis
 
 **Orca Bowl** Washington State Sea Grant / University of Washington
