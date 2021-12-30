@@ -4,6 +4,57 @@ permalink: /publications/
 author_profile: true
 ---
 
+0. Ettinger, A., C. Harvey, J. Samhouri, C.K. Emmons, M.B. Hanson, **E.J. Ward**, and J. Olson. 2021. Shifting phenology of an endangered apex predator tracks changes in its favored prey. Endangered Species Research
+
+0. Scheuerell, M., **E.J. Ward**, and S.L. Katz. 2021. Using replicate sampling and informative priors to improve estimates of species interaction strengths from time series data. Limnology and Oceanography Letters
+
+0. Schwoerer, T., R. Dial, J. Little, A. Martin, J. Morton, J. Schmidt, and **E.J. Ward**. 2021. Flight plan for the future: floatplane pilots and researchers team up to predict invasive species dispersal in alaska. Biological Invasions
+
+0. Feddern, M., **E.J. Ward**, A. Warlick, and G. Holtgrieve. 2021. Recent divergent changes in alaskan pinniped trophic position detected using compound- specific
+stable isotope analysis. Marine Ecology Progress Series
+
+0. Hunsicker, M., **E.J. Ward**, M. Litzow, S. Anderson, C. Harvey, J. Field, J. Gao, M. Jacox, S. Melin, A. Thompson, and P. Warzybok. 2021. Tracking and forecasting
+community responses to climate perturbations in the california current ecosystem
+
+0. Jannot, J.E., **E.J. Ward**, K.A. Somers, B.E. Feist, T.P. Good, D. Lawson, and J.V. Carretta. 2021. Using Bayesian models to estimate humpback whale entanglements
+in the united states west coast sablefish pot fishery. Frontiers in Marine Science, 8:1595 [link](https://www.frontiersin.org/articles/10.3389/fmars.2021.775187/full)
+
+0. Ohlberger, J., **E.J. Ward**, R. Brenner, M. Hunsicker, S. Haught, D. Finnoff, M. Litzow, T. Schwoerer, G. Ruggerone, and C. Hauri. 2021. Non-stationary and interactive effects of climate and competition on pink salmon productivity. Global Change Biology
+
+0. **Ward, E.J.**, S. Anderson, M. Hunsicker, and M. Litzow. 2021. Smoothed dynamic factor analysis for identifying trends in multivariate time series. Methods in Ecology and Evolution
+
+0. Commander, C., L.B. Barnett, **E.J. Ward**, S.C. Anderson, and T.E. Essington. 2021. The shadow model: how and why small choices in dynamic species distribution
+models affect predictions
+
+0. English, P., **E.J. Ward**, C.N. Rooper, R.E. Forrest, L.A. Rogers, K.L. Hunter, A.M. Edwards, B.M. Connors, and S.C. Anderson. 2021. Contrasting climate velocity
+impacts in warm and cool locations: a meta-analysis across 38 demersal fish species in the northeast pacific. Fish and Fisheries
+
+0. Waples, R.S., R.K. Waples, and **E.J. Ward**. 2021. Pseudoreplication in genomicsscale datasets. Molecular Ecology Resources, [link](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13482). 
+
+0. Stewart, J.D., J.W. Durban, H. Fearnbach, L.G. Barrett-Lennard, P.K. Casler, **E.J. Ward**, and D.R. Dapp. 2021. Survival of the fattest: linking body condition to
+prey availability and survivorship of killer whales. Ecosphere, 12:e03660 [link](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.3660)
+
+0. Jefferson, T.A., M.A. Smultea, **E.J. Ward**, and B. Berejikian. 2021. Harbor seals (Phoca vitulina richardii) in the inland waters of Washington State: a novel
+approach to stock size estimation. PLOS ONE, 16:e0241254. [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241254)
+
+0. Shelton, A.O., G.H. Sullaway, B.E. Feist, **E.J. Ward**, K.A. Somers, V.J. Tuttle, J.T. Watson, and W.H. Satterthwaite. 2021. Redistribution of salmon populations in the Northeast Pacific Ocean in response to climate. Fish and Fisheries, 22:503–517. [link](https://onlinelibrary.wiley.com/doi/10.1111/faf.12530)
+
+0. Barnett, L.A., S. Anderson, and **E.J. Ward**. 2021. Improving estimates of species distribution change by incorporating local trends. Ecography, 44:427-439. [link](https://onlinelibrary.wiley.com/doi/10.1111/ecog.05176)
+
+0. Feddern, M.L., G.W. Holtgrieve, and **E.J. Ward**. 2021. Stable isotope signatures in historic harbor seal bone link food web-assimilated carbon and nitrogen resources to a century of environmental change. Global Change Biology, 27:2328–2342. [link](https://onlinelibrary.wiley.com/doi/10.1111/gcb.15551)
+
+0. Essington, T., **E.J. Ward**, T.B. Francis, C. Greene, L. Kuehne, and D. Lowry. 2021. Historical reconstruction of the Puget Sound (Usa) groundfish community. Marine Ecology Progress Series, 657:173–189. [link](https://www.int-res.com/abstracts/meps/v657/p173-189/)
+
+0. Holt, M.M., J.B. Tennessen, **E.J. Ward**, M.B. Hanson, C.E. Emmons, D.A. Giles, and J.T. Hogan. 2021. Effects of vessel distance and sex on the behavior of endangered killer whales. Frontiers in Marince Science, 7:1211. [link](https://www.frontiersin.org/articles/10.3389/fmars.2020.582182/full)
+
+0. Litzow, M.A., M.J. Malick, N.A. Bond, C.J. Cunningham, J.L. Gosselin, and **E.J. Ward**. 2020. Quantifying a novel climate through changes in Pdo-climate and
+PDO-salmon relationships. Geophysical Research Letters, 47:e2020GL087972. [link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL087972)
+
+0. Litzow, M., M.E. Hunsicker, **E.J. Ward**, S.C. Anderson, J. Gao, S. Zador, S. Batten, S. Dressel, J. Duffy-Anderson, E. Fergusson, R. Hopcroft, B. Laurel, and R. O’Malley. 2020. Evaluating ecosystem change as Gulf of Alaska temperature exceeds the limits of preindustrial variability. Progress in Oceanography, 186:102393. [link](https://www.sciencedirect.com/science/article/abs/pii/S0079661120301324?via%3Dihub)
+
+0. Warlick, A.J., G.M. Ylitalo, S.M. O’Neill, M.B. Hanson, C. Emmons, and **E.J. Ward**. 2020. Using Bayesian stable isotope mixing models and generalized additive
+models to resolve diet changes for fish eating killer whales (Orcinus orca). Marine Ecology Progress Series, 649:189-200. [link](https://www.int-res.com/abstracts/meps/v649/p189-200/)
+
 0. Litzow, M.A., M.E. Hunsicker, N.A. Bond, B.J. Burke, C.J. Cunningham, J.L. Gosselin, E.L. Norton, **E.J. Ward**, and S.G. Zador. 2020. The changing physical
 and ecological meanings of north pacific ocean climate indices. Proceedings of the National Academy of Sciences, [link](https://www.pnas.org/content/117/14/7665)
 
