@@ -6,9 +6,9 @@ author_profile: true
 
 Time series
 ======
-[MARSS](https://github.com/nwfsc-timeseries/MARSS) R package containing a suite of univariate and multivariate state space time series models   (MARSS, DLMs, DFA, etc) using the Kalman Filter / EM algorithm
+[MARSS](https://atsa-es.github.io/MARSS/) R package containing a suite of univariate and multivariate state space time series models   (MARSS, DLMs, DFA, etc) using the Kalman Filter / EM algorithm
 
-[atsa](https://nwfsc-timeseries.github.io/atsa/) R package containing a collection of univariate time series models, primarily for teaching at UW  
+[atsa](https://atsa-es.github.io/atsa/) R package containing a collection of univariate time series models, primarily for teaching at UW  
 [tvvarss](https://nwfsc-timeseries.github.io/tvvarss/) R package   containing multivariate state space models with time-varying interactions 
 
 [bayesdfa](https://fate-ewi.github.io/bayesdfa/articles/bayesdfa.html) R package for performing Bayesian Dynamic Factor Analysis (DFA)  
