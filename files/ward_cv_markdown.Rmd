@@ -39,7 +39,7 @@ web: ericward-noaa.github.io
 
 *Statistican* Northwest Fisheries Science Center, NMFS (NOAA) \hfill 2009 - present
 
-*Affiliate Associate Professor* University of Washington (SAFS) \hfill 2013 - present
+*Affiliate Professor* University of Washington (SAFS) \hfill 2013 - present
 
 *Post-doctoral researcher* National Research Council \hfill 2007 - 2008
 
@@ -297,7 +297,7 @@ for(n in length(biblio):1) {
 
 **2019-2021** Christian Commander (NWFSC) Co-supervised with Lewis Barnett and Tim Essington  
 
-**2017-2021** Ben Nelson (NWFSC). Co-supervised with Ole Shelton  
+**2017-2021** Ben Nelson (NWFSC) Co-supervised with Ole Shelton  
 
 **2017-2019** Lewis Barnett (NWFSC)  
 
@@ -311,7 +311,7 @@ for(n in length(biblio):1) {
 
 **2021--** Sierra Gilman (B. Gardner), SEFS, University of Washington
 
-**2019--** Sam May (K. Naish), SAFS, University of Washington
+**2019--2022** Sam May (K. Naish), SAFS, University of Washington
 
 **2017-2021** Natalie Lowell (L. Hauser), SAFS, University of Washington (NMFS Population Dynamics Fellowship)
 
