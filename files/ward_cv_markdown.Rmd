@@ -327,10 +327,16 @@ for(n in length(biblio):1) {
 
 **2015-2016** Hannah Linder (J. Horne) UW
 
+# Awards  
+
+**2022 NOAA Bronze Medal Award**, Pacific Fisheries Management Council working group: “For leadership and problem-solving to develop innovative protections for Southern Resident killer whales and provide important fishing opportunities.”
+
 # Service and Outreach
 
 **Subject Editor, Ecological Applications** \hfill 2013 - present  
-  
+
+**Subject Editor, PeerJ** \hfill 2020 - present  
+    
 **Puget Sound Seabird Survey** \hfill 2005-2021
 \newline Developed survey methodology for Puget Sound’s first land-based citizen science seabird survey and oversaw data analysis
 
