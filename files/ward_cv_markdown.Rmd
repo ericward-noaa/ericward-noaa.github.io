@@ -293,7 +293,9 @@ for(n in length(biblio):1) {
 
 # Post-docs
 
-**2021--** Alex Jensen (UW) Co-supervised with Ryan Kelly, Ole Shelton, Will Satterthwaite  
+**2023--** Megan Feddern (UAF) Co-supervised with Curry Cunningham, Mary Hunsicker, Will Satterthwaite  
+
+**2021-2023** Alex Jensen (UW) Co-supervised with Ryan Kelly, Ole Shelton, Will Satterthwaite  
 
 **2019-2021** Christian Commander (NWFSC) Co-supervised with Lewis Barnett and Tim Essington  
 
@@ -337,6 +339,8 @@ for(n in length(biblio):1) {
 
 **Subject Editor, PeerJ** \hfill 2020 - present  
     
+**Subject Editor, Methods in Ecology and Evolution** \hfill 2022 - present  
+
 **Puget Sound Seabird Survey** \hfill 2005-2021
 \newline Developed survey methodology for Puget Sound’s first land-based citizen science seabird survey and oversaw data analysis
 
