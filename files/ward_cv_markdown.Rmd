@@ -243,9 +243,14 @@ for(n in length(biblio):1) {
 
 # External Funding
 
-**2022-2023** Non-stationary relationships between climate and fisheries in the California Current. E.J. Ward, M. Hunsicker, B. Burke, W. Satterthwaite, M. Jacox, M. Litzow, M. Malick. NWFSC grant, $118K
+**2023** E.J. Ward, K.N. Marshall. Developing multispecies models to improve forecasts and identify robust ecosystem
+management strategies under climate change. NMFS international fellowship to collaborate with Norway's Institute of Marine Research. $36K
+
+**2022-2023** E.J. Ward, M. Hunsicker, B. Burke, W. Satterthwaite, M. Jacox, M. Litzow, M. Malick. *Non-stationary relationships between climate and fisheries in the California Current*. NWFSC grant, $118K
 
 **2022-2024** T. Essington, M.E. Hunsicker, S.C. Anderson, *E.J. Ward*, J.T. Thorson, S. Siedlecki, L. Barnett, R. Forrest. *Climate change, distribution shifts, and choke species: A threat assessment to advance fishery ecosystem planning*. Washington Sea Grant, $250K  
+
+**2021** E.J. Ward. *Characterizing range shifts in groundfish species in response to local climate velocities*. NMFS Office of Science and Technology, $40K.
 
 **2021-2023** C.E. Jordan, M.E. Hunsicker, and E.J. Ward. *Developing a dashboard for salmon data and ecosystem indicators*. NOAA Protected Species Toolbox, $150K  
 
@@ -271,6 +276,8 @@ for(n in length(biblio):1) {
 
 **2015** E.J. Ward, A.O. Shelton and M.J. Ford. *Portfolio Effects in Historic Chinook Hatchery Practices on Prey Availability for Southern Resident Killer Whales* National Fish and Wildlife Foundation, $110K.  
 
+**2014 - 2016** *Applying portfolio effects to the Gulf of Alaska ecosystem: Did multi-scale diversity buffer against the Exxon Valdez oil spill?* NCEAS working group, $150K
+
 **2014-2015** I. Kaplan, E.J. Ward, et al. *A spatially explicit ecosystem model for quantifying marine mammal impacts on Chinook salmon* Pacific Salmon Commission Southern Fund, $206K.  
 
 **2013-2014** T. Eguchi, E.J. Ward, and E.E. Holmes. *Developing risk assessment tools for marine sea turtles* $100K.
@@ -286,6 +293,8 @@ for(n in length(biblio):1) {
 **2009** *NSF Comparative Analysis of Marine Ecosystem Organization: New statistical tools for analyzing community dynamics with applications to marine zooplankton*, $347K (141K from NCEAS). Associate Investigator (Principal Investigator - E.E. Holmes)
 
 # Fellowships and Awards
+
+**2022 NOAA Bronze Medal Award**, Pacific Fisheries Management Council working group: “For leadership and problem-solving to develop innovative protections for Southern Resident killer whales and provide important fishing opportunities.”
 
 **2006** *Cumulative Risk Assessment for Endangered Species* 2 year NRC post-doc awarded $92K.
 
@@ -329,10 +338,6 @@ for(n in length(biblio):1) {
 
 **2015-2016** Hannah Linder (J. Horne) UW
 
-# Awards  
-
-**2022 NOAA Bronze Medal Award**, Pacific Fisheries Management Council working group: “For leadership and problem-solving to develop innovative protections for Southern Resident killer whales and provide important fishing opportunities.”
-
 # Service and Outreach
 
 **Subject Editor, Ecological Applications** \hfill 2013 - present  
@@ -340,6 +345,10 @@ for(n in length(biblio):1) {
 **Subject Editor, PeerJ** \hfill 2020 - present  
     
 **Subject Editor, Methods in Ecology and Evolution** \hfill 2022 - present  
+
+**DFO - NOAA climate change working group** \hfill 2021 - present
+
+**NOAA Fisheries Integrated Toolbox co-lead** \hfill 2021 - present 
 
 **Puget Sound Seabird Survey** \hfill 2005-2021
 \newline Developed survey methodology for Puget Sound’s first land-based citizen science seabird survey and oversaw data analysis
