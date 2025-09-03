@@ -164,7 +164,9 @@ for(n in length(biblio):1) {
 
 ```
 
-# Technical Reports
+>28. Wetzel, C.R., A.M. Berger, C. Barnes, J.A. Zahner, N. Tolimieri, *E.J. Ward*, M. Head. 2025. Status of the sablefish (*Anoplopoma fimbria*) off the U.S. West Coast in 2025. 
+
+>27. Barrett, H. and M. Davis. 2024. Climate Vulnerability Assessment of Oregon Hatchery Programs. Prepared for Oregon Department of Fish and Wildlife. [link](https://www.dfw.state.or.us/fish/hatchery/docs/resilience/OSU_Climate_Vulnerability_Assessment_of_Oregon_Hatchery_Programs.pdf)
 
 >26. PFMC Ad-hoc Working Group. 2020. Pacific Fishery Management Council Salmon Fishery Management Plan Impacts to Southern Resident Killer Whales: Draft Range of Alternatives and Recommendations. [link](https://www.pcouncil.org/documents/2020/10/f-2-a-srkw-workgroup-report-1-pacific-fishery-management-council-salmon-fishery-management-plan-impacts-to-southern-resident-killer-whales-draft-range-of-alternatives-and-recommendations-with-strik.pdf/)  
 
@@ -302,7 +304,7 @@ management strategies under climate change. NMFS international fellowship to col
 
 # Post-docs
 
-**2023--** Megan Feddern (UAF) Co-supervised with Curry Cunningham, Mary Hunsicker, Will Satterthwaite  
+**2023-2024** Megan Feddern (UAF) Co-supervised with Curry Cunningham, Mary Hunsicker, Will Satterthwaite  
 
 **2021-2023** Alex Jensen (UW) Co-supervised with Ryan Kelly, Ole Shelton, Will Satterthwaite  
 
@@ -320,27 +322,27 @@ management strategies under climate change. NMFS international fellowship to col
 
 # Supervised Graduate	Students or	Committees
 
-**2021--** Sierra Gilman (B. Gardner), SEFS, University of Washington
+**2021--2025** Sierra Gilman (B. Gardner), SEFS, University of Washington
 
 **2019--2022** Sam May (K. Naish), SAFS, University of Washington
 
-**2017-2021** Natalie Lowell (L. Hauser), SAFS, University of Washington (NMFS Population Dynamics Fellowship)
+**2017--2021** Natalie Lowell (L. Hauser), SAFS, University of Washington (NMFS Population Dynamics Fellowship)
 
-**2017-2021** Megan Feddern (G. Holtgrieve), SAFS, University of Washington
+**2017--2021** Megan Feddern (G. Holtgrieve), SAFS, University of Washington
 
-**2017-2020** Elizabeth Ng (T. Essington), SAFS, University of Washington (NMFS Population Dynamics Fellowship)
+**2017--2020** Elizabeth Ng (T. Essington), SAFS, University of Washington (NMFS Population Dynamics Fellowship)
 
-**2012-2018** Pam Moriarty (T. Essington), SAFS, University of Washington
+**2012--2018** Pam Moriarty (T. Essington), SAFS, University of Washington
 
-**2013-2016** Brandon Chasco (S. Heppell) Oregon State University (NMFS Population Dynamics Fellowship)
+**2013--2016** Brandon Chasco (S. Heppell) Oregon State University (NMFS Population Dynamics Fellowship)
 
-**2014-2015** Brian Stock (B. Semmens) SIO, with Tomo Eguchi
+**2014--2015** Brian Stock (B. Semmens) SIO, with Tomo Eguchi
 
-**2015-2016** Hannah Linder (J. Horne) UW
+**2015--2016** Hannah Linder (J. Horne) UW
 
 # Service and Outreach
 
-**Subject Editor, Ecological Applications** \hfill 2013 - present  
+**Subject Editor, Ecological Applications** \hfill 2013 - 2025  
 
 **Subject Editor, PeerJ** \hfill 2020 - present  
     
