@@ -194,6 +194,7 @@ exclude:
   - files/*.Rmd
   - files/*.tex
   - files/*.log
+  - files/*.R
   - project.Rproj
   - vendor
 keep_files:
