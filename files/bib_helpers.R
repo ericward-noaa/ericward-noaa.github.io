@@ -26,7 +26,9 @@ read_sorted_bib = function(file = "myCV.bib") {
   df$order = 1:nrow(df)
   for(y in unique(df$years)) {
     indx = which(df$years==y)
-    df$order[indx] = df$order[indx][sort(df$months[indx], index.return=TRUE)$ix]
+    # order() keeps entries with no month (sort() silently dropped them, which
+    # duplicated some papers and lost others); undated ones go first in the year
+    df$order[indx] = df$order[indx][order(df$months[indx], na.last = FALSE)]
   }
   biblio = biblio[[df$order]]
   biblio

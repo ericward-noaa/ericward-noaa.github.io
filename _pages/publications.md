@@ -23,8 +23,6 @@ author_profile: true
 
 0. **Ward, E.J.**, M.A. Head, K. Ono, K.F. Johnson, and K.N. Marshall. 2026. Applying information theory to increase the efficiency of life-history sampling in fisheries data. *Fisheries Research*, 293:107641. [link](https://doi.org/10.1016/j.fishres.2025.107641)
 
-0. Oken, K.L., S.D. Groth, D.S. Holland, A.E. Punt, and **E.J. Ward**. 2025. Variability in somatic growth over time and space determines optimal season-opening date in the oregon ocean shrimp (pandalus jordani) fishery. *Canadian Journal of Fisheries and Aquatic Sciences*, 82:1-13. [link](https://doi.org/10.1139/cjfas-2024-0125)
-
 0. Odell, A.N., K.N. Marshall, **E.J. Ward**, K.F. Johnson, and M.L. Baskett. 2025. Spatiotemporal models reveal dynamic growth patterns in u.s. west coast groundfish. *Transactions of the American Fisheries Society*, 155:76-89. [link](https://doi.org/10.1093/tafafs/vnaf050)
 
 0. **Ward, E.J.**, P.A. English, C.N. Rooper, B.E. Ferriss, C.E. Whitmire, C.R. Wetzel, L.A.K. Barnett, S.C. Anderson, J.T. Thorson, K.F. Johnson, J. Indivero, and E.H. Markowitz. 2025. surveyjoin: a standardized database of scientific trawl surveys in the northeast pacific ocean. *PeerJ*, 13:e19964. [link](https://doi.org/10.7717/peerj.19964)
@@ -47,23 +45,21 @@ author_profile: true
 
 0. Oken, K.L., S.D. Groth, D.S. Holland, A.E. Punt, and **E.J. Ward**. 2025. Variability in somatic growth over time and space determines optimal season-opening date in the oregon ocean shrimp (pandalus jordani) fishery. *Canadian Journal of Fisheries and Aquatic Sciences*, 82:1-13. [link](https://doi.org/10.1139/cjfas-2024-0125)
 
-0. Samhouri, J.F., B.E. Feist, M. Jacox, O.R. Liu, K. Richerson, E. Steiner, J. Wallace, K. Andrews, L. Barnett, A.H. Beaudreau, L. Bellquist, M.P. Buil, M.A. Haltuch, A. Harley, C.J. Harvey, I.C. Kaplan, K. Norman, A. Phillips, L.K. Rasmuson, **E.J. Ward**, C. Whitmire, and R.L. Selden. 2024. Stay or go? geographic variation in risks due to climate change for fishing fleets that adapt in-place or adapt on-the-move. *PLOS Climate*, 3:1-28. [link](https://doi.org/10.1371/journal.pclm.0000285)
+0. Rand, Z.R., **E.J. Ward**, J.E. Zamon, T.P. Good, and C.J. Harvey. 2024. Using hidden markov models to develop ecosystem indicators from non-stationary time series. *Ecological Modelling*, 495:110800. [link](https://doi.org/10.1016/j.ecolmodel.2024.110800)
+
+0. **Ward, E.J.**, S.C. Anderson, L.A.K. Barnett, P.A. English, H.M. Berger, C.J.C. Commander, T.E. Essington, C.J. Harvey, M.E. Hunsicker, M.G. Jacox, K.F. Johnson, S. Large, O.R. Liu, K.E. Richerson, J.F. Samhouri, S.A. Siedlecki, A.O. Shelton, K.A. Somers, and J.T. Watson. 2024. Win, lose, or draw: evaluating dynamic thermal niches of northeast pacific groundfish. *PLOS Climate*, 3:1-19. [link](https://doi.org/10.1371/journal.pclm.0000454)
+
+0. **Ward, E.J.**, and R.S. Waples. 2024. Potential benefits and challenges of quantifying pseudoreplication in genomic data with entropy statistics. *Entropy*, 26:. [link](https://doi.org/10.3390/e26090805)
 
 0. May, S.A., K.R. Shedd, K.M. Gruenthal, J.J. Hard, W.D. Templin, C.D. Waters, M.D. Adkison, **E.J. Ward**, C. Habicht, L.I. Wilson, A.C. Wertheimer, and P.A.H. Westley. 2024. Salmon hatchery strays can demographically boost wild populations at the cost of diversity: quantitative genetic modelling of alaska pink salmon. *Royal Society Open Science*, 11:240455. [link](https://doi.org/10.1098/rsos.240455)
+
+0. Samhouri, J.F., B.E. Feist, M. Jacox, O.R. Liu, K. Richerson, E. Steiner, J. Wallace, K. Andrews, L. Barnett, A.H. Beaudreau, L. Bellquist, M.P. Buil, M.A. Haltuch, A. Harley, C.J. Harvey, I.C. Kaplan, K. Norman, A. Phillips, L.K. Rasmuson, **E.J. Ward**, C. Whitmire, and R.L. Selden. 2024. Stay or go? geographic variation in risks due to climate change for fishing fleets that adapt in-place or adapt on-the-move. *PLOS Climate*, 3:1-28. [link](https://doi.org/10.1371/journal.pclm.0000285)
+
+0. Nelson, B.W., **E.J. Ward**, D.W. Linden, E. Ashe, and R. Williams. 2024. Identifying drivers of demographic rates in an at-risk population of marine mammals using integrated population models. *Ecosphere*, 15:e4773. [link](https://doi.org/10.1002/ecs2.4773)
 
 0. Riekkola, L., O.R. Liu, **E.J. Ward**, D.S. Holland, B.E. Feist, and J.F. Samhouri. 2024. Modeling the spatiotemporal patterns and drivers of dungeness crab fishing effort to inform whale entanglement risk mitigation on the u.s. west coast. *Journal of Environmental Management*, 351:119735. [link](https://doi.org/10.1016/j.jenvman.2023.119735)
 
 0. **Ward, E.J.**, M.E. Hunsicker, K.N. Marshall, K.L. Oken, B.X. Semmens, J.C. Field, M.A. Haltuch, K.F. Johnson, I.G. Taylor, A.R. Thompson, and N. Tolimieri. 2024. Leveraging ecological indicators to improve short term forecasts of fish recruitment. *Fish and Fisheries*, 25:895-909. [link](https://doi.org/10.1111/faf.12850)
-
-0. **Ward, E.J.**, and R.S. Waples. 2024. Potential benefits and challenges of quantifying pseudoreplication in genomic data with entropy statistics. *Entropy*, 26:. [link](https://doi.org/10.3390/e26090805)
-
-0. Nelson, B.W., **E.J. Ward**, D.W. Linden, E. Ashe, and R. Williams. 2024. Identifying drivers of demographic rates in an at-risk population of marine mammals using integrated population models. *Ecosphere*, 15:e4773. [link](https://doi.org/10.1002/ecs2.4773)
-
-0. **Ward, E.J.**, S.C. Anderson, L.A.K. Barnett, P.A. English, H.M. Berger, C.J.C. Commander, T.E. Essington, C.J. Harvey, M.E. Hunsicker, M.G. Jacox, K.F. Johnson, S. Large, O.R. Liu, K.E. Richerson, J.F. Samhouri, S.A. Siedlecki, A.O. Shelton, K.A. Somers, and J.T. Watson. 2024. Win, lose, or draw: evaluating dynamic thermal niches of northeast pacific groundfish. *PLOS Climate*, 3:1-19. [link](https://doi.org/10.1371/journal.pclm.0000454)
-
-0. Rand, Z.R., **E.J. Ward**, J.E. Zamon, T.P. Good, and C.J. Harvey. 2024. Using hidden markov models to develop ecosystem indicators from non-stationary time series. *Ecological Modelling*, 495:110800. [link](https://doi.org/10.1016/j.ecolmodel.2024.110800)
-
-0. Samhouri, J.F., B.E. Feist, M. Jacox, O.R. Liu, K. Richerson, E. Steiner, J. Wallace, K. Andrews, L. Barnett, A.H. Beaudreau, L. Bellquist, M.P. Buil, M.A. Haltuch, A. Harley, C.J. Harvey, I.C. Kaplan, K. Norman, A. Phillips, L.K. Rasmuson, **E.J. Ward**, C. Whitmire, and R.L. Selden. 2024. Stay or go? geographic variation in risks due to climate change for fishing fleets that adapt in-place or adapt on-the-move. *PLOS Climate*, 3:1-28. [link](https://doi.org/10.1371/journal.pclm.0000285)
 
 0. Schwoerer, T., K. Berry, D.G. Dugan, D.C. Finnoff, M. Mayo, J. Ohlberger, and **E.J. Ward**. 2023. Fish or not fish—fisheries participation and harvest diversification under economic and ecological change. *Marine Policy*, 157:105833. [link](https://doi.org/10.1016/j.marpol.2023.105833)
 
