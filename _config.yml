@@ -191,6 +191,10 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - files/*.Rmd
+  - files/*.tex
+  - files/*.log
+  - project.Rproj
   - vendor
 keep_files:
   - .git

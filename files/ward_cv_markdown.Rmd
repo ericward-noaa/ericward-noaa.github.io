@@ -1,7 +1,6 @@
 ---
 title: "CV"
 author: "Eric J. Ward"
-bibliography: myCV.bib
 output:
   pdf_document:
     latex_engine: pdflatex
@@ -17,7 +16,6 @@ geometry: margin=1in
 jobtitle: 
 keywords: R Markdown, academic CV, template
 linkcolor: blue
-csl: journal-of-applied-ecology.csl
 phone: 206-302-1745
 address: Northwest Fisheries Science Center · 2725 Montlake Blvd E · Seattle, WA
 updated: no
